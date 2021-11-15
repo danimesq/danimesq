@@ -14,7 +14,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 
 
-- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/)
+- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
 - 🌱 I’m currently learning Python, Solidity
 - 💬 Ask me about inclusiveness in the tech space
 - 📫 How to reach me: [daniellmesquita@protonmail.com](mailto:daniellmesquita@protonmail.com)
