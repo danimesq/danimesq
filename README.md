@@ -10,6 +10,9 @@
 #### Back-end development
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
+#### App development
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
+
 
 - 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/)
 - 🌱 I’m currently learning Python, Solidity
