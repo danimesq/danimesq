@@ -22,6 +22,5 @@
 - 📫 How to reach me: [daniellmesquita@protonmail.com](mailto:daniellmesquita@protonmail.com)
 - 😄 Pronouns: she/her/they
 
-I give new life to once abandoned software/tools.
-
-I give life to unthought software/tools that gives new life.
+1. I give new life to old, once abandoned software/tools.
+2. I give life to brand new, unthought software/tools that gives new life.
