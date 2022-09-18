@@ -19,10 +19,10 @@
 
 
 - 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
-- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support Cartesi)
+- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
 - 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
-- 📫 How to reach me: [daniellmesquita@protonmail.com](mailto:daniellmesquita@protonmail.com)
-- 😄 Pronouns: she/her/they
+- 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
+- 😄 Pronouns: she/her
 
 ----
 
