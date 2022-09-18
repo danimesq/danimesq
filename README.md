@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![daniellmesquita.eth.link](https://img.shields.io/badge/daniellmesquita.eth.link-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://daniellmesquita.eth.link)
+[![🌳Linktree](https://img.shields.io/badge/daniellmesquita.eth.link-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
 [![Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
 
