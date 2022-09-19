@@ -23,14 +23,14 @@
 - 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
 - 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
 - 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
-- 😄 Pronouns: she/her
+- 🤗 Pronouns: she/her | 🏳️‍⚧️ Woman | 🏳️‍🌈 Lesbian
 
 ----
 
 1. I give new life to old, once abandoned software/tools.
 2. I give life to brand new, unthought software/tools that gives new life.
 
-#### Organizations:
+#### 🏢 Organizations:
 
 - [Floflis](https://github.com/Floflis)
 - [Plasmmer](https://github.com/Plasmmer)
