@@ -27,8 +27,10 @@
 
 ----
 
-1. I give new life to old, once abandoned software/tools.
+1. I give new life to old, once abandoned software/tools;
 2. I give life to brand new, unthought software/tools that gives new life.
+
+----
 
 #### 🏢 Organizations:
 
