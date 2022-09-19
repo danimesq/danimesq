@@ -29,3 +29,29 @@
 
 1. I give new life to old, once abandoned software/tools.
 2. I give life to brand new, unthought software/tools that gives new life.
+
+#### Organizations:
+
+- [Plasmmer](https://github.com/Plasmmer)
+- [Plasmmer Developers](https://github.com/PlasmmerDev)
+- [Floflis](https://github.com/Floflis)
+- [Universav](https://github.com/Universav)
+- [AddressTower](https://github.com/AddressTower)
+- [USV Format](https://github.com/usvformat)
+- [DCRS](https://github.com/DCRS)
+- [UltraCreator](https://github.com/UltraCreator)
+- [Floflis Pull](https://github.com/FloflisPull)
+- [Orgut/Peeper](https://github.com/PeeperSocial)
+- [Communicator](https://github.com/CommunicatorMessenger)
+- [NeTVision](https://github.com/NetVisionOfficial)
+- [Eventlr](https://github.com/EventlrEngine)
+- [HTML5Apps Platform](https://github.com/html5appsplatform)
+- [01 VCS](https://github.com/01VCS)
+- [UniOS](https://github.com/UniOSeth)
+- [Tamigucho](https://github.com/Tamigucho)
+- [Gamlr](https://github.com/Gamlr)
+- [XPoke](https://github.com/XPokeProject)
+- [FrameworkJS](https://github.com/FrameworkJavascript)
+- [Floflis Screens](https://github.com/FloflisScreens)
+- [Firedoge/Web3 HQ](https://github.com/Web3HQ)
+- [FilePeace](https://github.com/FilePeace)
