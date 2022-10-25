@@ -57,3 +57,7 @@
 - [Gamlr](https://github.com/Gamlr)
 - [Tamigucho](https://github.com/Tamigucho)
 - [XPoke](https://github.com/XPokeProject)
+
+#### My personal repos
+* [PRIVATE] [Vaccines](https://github.com/danimesq/Personal-Vaccines)
+* [PRIVATE] [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
