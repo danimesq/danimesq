@@ -83,3 +83,171 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
 
 [WIP] Manage personal issues & development as if your life were a git project
+* [Adventus](https://github.com/Floflis/Adventus)
+
+A window manager written in Javascript, HTML5 and CSS3. This fork, Adventus, implements GTK-compatible CSS classes to window elements, and other improvements such as compatibility with Framlr for Electron. If its the desire of the original author, this fork can cease by being merged upstream.
+* [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron)
+
+Preview Construct 2 apps/games in a Electron prebuilt exe - as if Electron were a normal browser!
+* [floapps](https://github.com/Floflis/floapps)
+
+Have AppImage? Now are you missing support for .apps, .game and .html5 files?
+* [batsh-shell](https://github.com/Floflis/batsh-shell)
+
+[WIP] Experimental shell written in shell (metalanguage) to parse the batsh language
+* [Floflis-Central](https://github.com/Floflis/Floflis-Central)
+
+[WIP] More than a settings aggregator; its a dashboard for your web3 profile.
+* [rmv](https://github.com/Floflis/rmv)
+
+Like the "rm" command, but safer
+* [linux-icon-builder](https://github.com/Floflis/linux-icon-builder)
+
+Enter an source image (min. 512x512) and get it resized into different sizes and added into a folder you can patch as icon theme on Linux.
+* [Floflis-Packager](https://github.com/Floflis/Floflis-Packager)
+
+[WIP] Make a working and lightweight Electron app for Floflis.
+* [WFS](https://github.com/Floflis/WFS)
+
+[WIP] Web File System - a working file system for web OSes, using IPFS for syncing files between local and other devices/services such as Pinata 
+* [wq](https://github.com/Floflis/wq)
+
+[WIP] Use jq or mlq to write, in one line
+* [untitled](https://github.com/Floflis/untitled)
+
+[WIP] untitled knows how to name the files; the only work your program have is to pass "save" to the untitled lib
+* [foldmerger](https://github.com/Floflis/foldmerger)
+
+[WIP] Merge two "different" git repos into one!
+* [noah](https://github.com/Floflis/noah)
+* [rpm-install](https://github.com/Floflis/rpm-install)
+* [bash-performance](https://github.com/Floflis/bash-performance)
+* [fullname](https://github.com/Floflis/fullname)
+
+[WIP] Get user's full name
+* [unistore](https://github.com/Floflis/unistore)
+* [mlq](https://github.com/Floflis/mlq)
+
+jq, but HTML instead of JSON 🧚
+* [logout](https://github.com/Floflis/logout)
+
+[WIP] According to itsfoss: "there is no logout command in Ubuntu or any Linux distribution"; but now there are 🧚
+* [ethgas](https://github.com/Floflis/ethgas)
+
+Displays information about Ethereum's gas prices with programmatic-use support
+* [online](https://github.com/Floflis/online)
+
+Utility to check if online or offline. Install and just type `online` in the Witchcraft/Terminal; can be used programmatically
+* [shit](https://github.com/Floflis/shit)
+
+Like a classical `curl URL | sh`, but safer and faster.
+* [alertz](https://github.com/Floflis/alertz)
+
+Add JsonFeed files and receive notifications on new content.
+* [dedup](https://github.com/Floflis/dedup)
+* [wjet](https://github.com/Floflis/wjet)
+
+[WIP] ipget, but faster 🚀 - Download files from IPFS like if you were using wget; but safer (and now faster!)
+* [ Mouse-Course](https://github.com/Floflis/Mouse-Course)
+
+Learn how to use your mouse, the most important tool you have to use your computer!
+* [Web3Updater](https://github.com/Plasmmer/Web3Updater)
+
+ The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
+* [HTTB](https://github.com/Plasmmer/HTTB)
+
+The HTTP server purely written in Bash! "HTTB" stands for Hyper Text Transfer Bash. Imagine nginx, but written in shell.
+* [SharedBytes](https://github.com/Plasmmer/SharedBytes)
+
+Common Bytes Specification, for data deduplication
+* [Framlr](https://github.com/Plasmmer/Framlr)
+
+Do you want frameless windows on your Electron app? There's a framework even for that! No need to rebuild the wheel for every Electron app you develop. Framlr is a window frame boilerplate to be used on Electron apps with frameless windows.
+* [Omni-Packager](https://github.com/Plasmmer/Omni-Packager)
+
+Leverage Floflis Packager but not limited to it
+* [Scripting-Knowledge](https://github.com/Plasmmer/Scripting-Knowledge)
+
+Knowledge base for awesome tricks for Bash and other scripting languages
+* [Future1984](https://github.com/Plasmmer/Future1984)
+
+The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: black-white e-ink, RISC-V and Rust.
+* [Shared-Design](https://github.com/Plasmmer/Shared-Design)
+
+Shared design principles that inherits from Material Design, Human Design and Fluent Design.
+* [Plugz](https://github.com/Plasmmer/Plugz)
+
+Building/compiling, now like a cake recipe 🍰 Make simpler software using independent dependencies. Get build recipes from JSON files, parse source-code and binary links from both centralized and decentralized sources, do different builds to different targets.
+* [SharedChain](https://github.com/Plasmmer/SharedChain)
+
+NFT was stored at an nowadays Imageshack and it got offline? Its centralized URL will have an IPFS match! This is one of a lot of examples of how SharedChain can be used.
+* [Download.json](https://github.com/Plasmmer/Download.json)
+
+File that defines which file should/not be downloaded according to conditions.
+* [universal-abi](https://github.com/PlasmmerDev/universal-abi)
+
+Generic ABI that can be used for any smart-contract (Ethereum, Polygon, etc; EVM) of any ERC.
+* [EveryoneCan](https://github.com/PlasmmerDev/EveryoneCan)
+
+An humanitary initiative. Games and apps are only for "programmers"? 🤔 Its a wrong (and anti-democratic) myth that "only specific people can develop"; the truth is that everyone can make games and apps; visually and intuitively (through event-sheets) without knowing text programming! Even your grandma and children.
+* [PEHTML](https://github.com/PlasmmerDev/PEHTML)
+
+Brand new experimental & modern tags to facilitate, simplify, complement and speed up the Web.
+* [Quantum-Markup-Language](https://github.com/PlasmmerDev/Quantum-Markup-Language)
+
+Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on XML; with improvements (such as support to datasets) and Esperanto as main language.
+* [DML](https://github.com/PlasmmerDev/DML)
+* [Framework.js](https://github.com/FrameworkJavascript/Framework.js)
+
+The Framework that the Web 3.0 deserves
+* [FrameworkBlogger](https://github.com/FrameworkJavascript/FrameworkBlogger)
+
+Yes: FrameworkJS for Blogger (blogspot.com), too!
+* [FMWK-reddit](https://github.com/FrameworkJavascript/FMWK-reddit)
+
+Yes: FrameworkJS for (sub)Reddit(s), too!
+* [Web3Framework](https://github.com/FrameworkJavascript/Web3Framework)
+
+Connect your Ethereum wallet and see its ETH balances. FrameworkJS Web3 template using Web3Modal.
+* [ConstructFramework](https://github.com/FrameworkJavascript/ConstructFramework)
+
+Easily make apps using... ...Construct 2 game engine
+* [Eventlr](https://github.com/EventlrEngine/Eventlr)
+
+Programming made easy from kids to your grandma. Eventlr is the app to create apps, with ridiculously-easy visual event sheets with conditions/actions.
+* [poodle](https://github.com/Web3HQ/poodle)
+
+Simple search engine for IPFS/.eth sites, using Lunr2
+* [firedoge](https://github.com/Web3HQ/firedoge)
+
+The browser the Web 3.0 asked for.
+* [HTML5Apps-Platform](https://github.com/html5appsplatform/HTML5Apps-Platform)
+
+Run HTML5 apps in reduced size as native apps synced in any of your devices.
+* [USV-Format](https://github.com/usvformat/USV-Format)
+
+Format created to support the videos of future.
+* [Offline-Peeper-poster](https://github.com/PeeperSocial/Offline-Peeper-poster)
+
+No Internet connection? Draft posts for Peeper!
+* [Chatip](https://github.com/CommunicatorMessenger/Chatip)
+
+Embed version of Communicator, for you put in your site/blog.
+* [YouTube-Calculator](https://github.com/NetVisionOfficial/YouTube-Calculator)
+
+Calc how many views you will have per video, and your AdSense revenue per video and per month
+* [Video-Script-Maker](https://github.com/NetVisionOfficial/Video-Script-Maker)
+
+Write the script for your talks/acts in a video, then easily read while filming (slide with a simple mouse or remotecontrol button press)
+* [01](https://github.com/01VCS/01)
+
+Git, on steroids. Layer2 for git, ready for the Web 3.0
+* [git-meta](https://github.com/01VCS/git-meta)
+
+Wanna git preserve your file dates? git-meta stores all files' metadata into .gitmeta!
+* [recursive_files_timestamp](https://github.com/FilePeace/recursive_files_timestamp)
+
+Preserve/snapshot the current state of a folder, with its file list and timestamps
+* [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
+
+Prepares and joints your game's controller and screen
