@@ -195,7 +195,7 @@ An humanitary initiative. Games and apps are only for "programmers"? 🤔 Its a 
 Brand new experimental & modern tags to facilitate, simplify, complement and speed up the Web.
 * [Quantum-Markup-Language](https://github.com/PlasmmerDev/Quantum-Markup-Language)
 
-Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on XML; with improvements (such as support to datasets) and Esperanto as main language.
+Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on XML; with improvements such as support to datasets.
 * [DML](https://github.com/PlasmmerDev/DML)
 * [Framework.js](https://github.com/FrameworkJavascript/Framework.js)
 
