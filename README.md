@@ -59,9 +59,22 @@
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80556987?s=200&v=4"/> [XPoke](https://github.com/XPokeProject)
 
 These are my projects that I turned into organizations.
-Yes, there are no people on these organizations other than me myself, unfortunately.
-TDAH have its dangers and struggles but it also have its good side, which gives me a huge amount of creativity and brand new projects every year (downside: not finishing a 4-day-long project and already jumping into a brand new idea that popped out)
+
+Yes, there are no people on these organizations other than me myself, unfortunately (people don't join and avoid even their selves nowadays).
+
+TDAH have its dangers and struggles but also have its good side, which give me a huge amount of creativity and brand new projects every year (downside: not finishing a 4-day-long project and already jumping into a brand new idea that popped out)
 
 #### My personal repos
 * [PRIVATE] 💉 [Vaccines](https://github.com/danimesq/Personal-Vaccines)
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
+
+#### My thoughtful questions about the status of programming and computing in general:
+* Why don't we get inspired by git and (urgently, gently) de-duplicate the Web? In 100 years, we'll have more bits than atoms on Earth
+* Why having to copy and paste your bio between sites (and leaving leftovers in sites you don't remember often) just to update a number for your birthday age, when they could be centered in a single place where other sites gets the plain text from?
+* Ethereum came to question Bitcoin's limitations. But, currently, there are no layer1 projects LEGITIMATELY questioning Ethereum other than BrightID's IDChain. Cardano? Solana? All other "ethereum-killer"s? They are to Ethereum just what BitcoinCash/Litecoin are to Bitcoin.
+* The line between a programmer and a "scripter" should be blurred, merged. More than that, I believe Bash/Shell/visual-event-sheet "scripters" (programmers) are way more glorious due to their frugal style/abilities (this "their" is "our" because I'm part of them, us; but for the sake of my mind wellbeing I want not to forget being humble).
+* Programming should be known for the visual event-sheets, not bytes/hex/{}/();/notepad brainf&%c
+* Linux distros should be developed not with a eyeglass, an idea to fix other distros, coffee and some abilities; they should be developed with love. That's why they should be built 100% in Bash/Shell+JS/HTML/CSS (lets democratize visual event-sheets) and that's why "The year of the Linux in Desktop" did never came.
+* Why aren't our screenshot files split in parts, containing HTML/CSS/SVG replacing lots of pixels? This could be also merged/intersected with my idea of file de-duplication.
+* Why having a whole new separated video coded to react/duet/reply to another video, when videos could simply be containers building on the top of other? You could deduplicate (and save) a lot of (mega)bytes by just linking a video on the video that wants to insert it. Also, mentioning the previous item: why lots of pixels to have texts/figures on your videos when they could simply be in HTML/CSS/SVG (even the transitions, in CSS)?
+* Git does deduplicate texty files such as HTML/CSV/XML/etc. Shouldn't it also deduplicate the audio's wave forms, images and the same as video frames+audio? Git was primarily made for developers (which mostly uses texty files, obviously), but what about LFS and the app/game's assets? Also, git have the potential for uses beyond the dev space. These advanced deduplicing capabilities shouldn't necessarily be added to git, but to a layer2 for it (or in competitors such as Pijul or a layer2 for both git and/or these competitors/alternatives)
