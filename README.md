@@ -81,4 +81,5 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 #### 💎🌱 Featured projects
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
+
 [WIP] Manage personal issues & development as if your life were a git project
