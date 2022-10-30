@@ -34,7 +34,7 @@
 
 #### 🏢 Organizations:
 
-- <img src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](https://github.com/Floflis)
+- <img width="16px" src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](https://github.com/Floflis)
 - [Plasmmer](https://github.com/Plasmmer)
 - [Plasmmer Developers](https://github.com/PlasmmerDev)
 - [FrameworkJS](https://github.com/FrameworkJavascript)
