@@ -58,6 +58,10 @@
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80379087?s=200&v=4"/> [Tamigucho](https://github.com/Tamigucho)
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80556987?s=200&v=4"/> [XPoke](https://github.com/XPokeProject)
 
+These are my projects that I turned into organizations.
+Yes, there are no people on these organizations other than me myself, unfortunately.
+TDAH have its dangers and struggles but it also have its good side, which gives me a huge amount of creativity and brand new projects every year (downside: not finishing a 4-day-long project and already jumping into a brand new idea that popped out)
+
 #### My personal repos
 * [PRIVATE] 💉 [Vaccines](https://github.com/danimesq/Personal-Vaccines)
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
