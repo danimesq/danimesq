@@ -307,9 +307,12 @@ Wanna git preserve your file dates? git-meta stores all files' metadata into .gi
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](https://github.com/FilePeace)
 
-* [recursive_files_timestamp](https://github.com/FilePeace/recursive_files_timestamp)
+* [folderstamp](https://github.com/FilePeace/folderstamp)
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
+* [Mediantic](https://github.com/FilePeace/Mediantic)
+
+The new web is semantic. And media have to be semantic, too. 
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](https://github.com/Gamlr)
 
