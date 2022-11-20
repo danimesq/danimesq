@@ -225,7 +225,7 @@ Programming made easy from kids to your grandma. Eventlr is the app to create ap
 * [poodle](https://github.com/Web3HQ/poodle)
 
 Simple search engine for IPFS/.eth sites, using Lunr2
-* [firedoge](https://github.com/Web3HQ/firedoge)
+* [SRC At ETH💎💌] [firedoge](https://github.com/Web3HQ/firedoge)
 
 The browser the Web 3.0 asked for.
 * [HTML5Apps-Platform](https://github.com/html5appsplatform/HTML5Apps-Platform)
