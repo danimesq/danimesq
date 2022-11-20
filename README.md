@@ -172,9 +172,10 @@ Add JsonFeed files and receive notifications on new content.
 * [wjet](https://github.com/Floflis/wjet)
 
 [WIP] ipget, but faster 🚀 - Download files from IPFS like if you were using wget; but safer (and now faster!)
-* [ Mouse-Course](https://github.com/Floflis/Mouse-Course)
+* [Mouse-Course](https://github.com/Floflis/Mouse-Course)
 
 Learn how to use your mouse, the most important tool you have to use your computer!
+* [NFT Generator](https://github.com/Floflis/nft-generator)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
@@ -212,6 +213,7 @@ NFT was stored at an nowadays Imageshack and it got offline? Its centralized URL
 * [Download.json](https://github.com/Plasmmer/Download.json)
 
 File that defines which file should/not be downloaded according to conditions.
+* [musiclr-core](https://github.com/Plasmmer/musiclr-core)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/17116432?s=200&v=4"/> [Plasmmer Developers](https://github.com/PlasmmerDev)
 
