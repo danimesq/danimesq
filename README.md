@@ -104,7 +104,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 * davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's Future1984 PC should start before becoming a standard)
 
-Apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher), [davidWriter](https://github.com/Floflis/davidWriter), [davidExplorer](https://github.com/Floflis/davidExplorer)
+These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile)
 
 #### 💎🌱 Featured organizations & their projects
 
