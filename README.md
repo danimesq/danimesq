@@ -101,6 +101,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * Emojis represents the humanity's expressions; so why the curation of brand new emojis aren't widely open (through a DAO for example)?
 
 #### 💎🌱 Featured organizations & their projects
+
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](https://github.com/Floflis)
+
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
 
 [WIP] Manage personal issues & development as if your life were a git project
@@ -172,6 +175,9 @@ Add JsonFeed files and receive notifications on new content.
 * [ Mouse-Course](https://github.com/Floflis/Mouse-Course)
 
 Learn how to use your mouse, the most important tool you have to use your computer!
+
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
+
 * [Web3Updater](https://github.com/Plasmmer/Web3Updater)
 
  The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
@@ -205,6 +211,9 @@ NFT was stored at an nowadays Imageshack and it got offline? Its centralized URL
 * [Download.json](https://github.com/Plasmmer/Download.json)
 
 File that defines which file should/not be downloaded according to conditions.
+
+##### 
+
 * [universal-abi](https://github.com/PlasmmerDev/universal-abi)
 
 Generic ABI that can be used for any smart-contract (Ethereum, Polygon, etc; EVM) of any ERC.
@@ -233,42 +242,72 @@ Connect your Ethereum wallet and see its ETH balances. FrameworkJS Web3 template
 * [ConstructFramework](https://github.com/FrameworkJavascript/ConstructFramework)
 
 Easily make apps using... ...Construct 2 game engine
+
+##### 
+
 * [Eventlr](https://github.com/EventlrEngine/Eventlr)
 
 Programming made easy from kids to your grandma. Eventlr is the app to create apps, with ridiculously-easy visual event sheets with conditions/actions.
+
+##### 
+
 * [poodle](https://github.com/Web3HQ/poodle)
 
 Simple search engine for IPFS/.eth sites, using Lunr2
 * [SRC At ETH💎💌] [firedoge](https://github.com/Web3HQ/firedoge)
 
 The browser the Web 3.0 asked for.
+
+##### 
+
 * [HTML5Apps-Platform](https://github.com/html5appsplatform/HTML5Apps-Platform)
 
 Run HTML5 apps in reduced size as native apps synced in any of your devices.
+
+##### 
+
 * [USV-Format](https://github.com/usvformat/USV-Format)
 
 Format created to support the videos of future.
+
+##### 
+
 * [Offline-Peeper-poster](https://github.com/PeeperSocial/Offline-Peeper-poster)
 
 No Internet connection? Draft posts for Peeper!
+
+##### 
+
 * [Chatip](https://github.com/CommunicatorMessenger/Chatip)
 
 Embed version of Communicator, for you put in your site/blog.
+
+##### 
+
 * [YouTube-Calculator](https://github.com/NetVisionOfficial/YouTube-Calculator)
 
 Calc how many views you will have per video, and your AdSense revenue per video and per month
 * [Video-Script-Maker](https://github.com/NetVisionOfficial/Video-Script-Maker)
 
 Write the script for your talks/acts in a video, then easily read while filming (slide with a simple mouse or remotecontrol button press)
+
+##### 
+
 * [01](https://github.com/01VCS/01)
 
 Git, on steroids. Layer2 for git, ready for the Web 3.0
 * [git-meta](https://github.com/01VCS/git-meta)
 
 Wanna git preserve your file dates? git-meta stores all files' metadata into .gitmeta!
+
+##### 
+
 * [recursive_files_timestamp](https://github.com/FilePeace/recursive_files_timestamp)
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
+
+##### 
+
 * [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
 
 Prepares and joints your game's controller and screen
