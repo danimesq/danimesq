@@ -199,6 +199,7 @@ Knowledge base for awesome tricks for Bash and other scripting languages
 * [Future1984](https://github.com/Plasmmer/Future1984)
 
 The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: black-white e-ink, RISC-V and Rust.
+* [Undefined] [Car](https://github.com/Plasmmer/Car)
 * [Shared-Design](https://github.com/Plasmmer/Shared-Design)
 
 Shared design principles that inherits from Material Design, Human Design and Fluent Design.
