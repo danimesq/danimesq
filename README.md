@@ -73,16 +73,16 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 * [aquarium-site](https://github.com/danimesq/aquarium-site)
 
-##### Personal: Gaming
+##### Personal: Gaming/Metaverse
 
-* [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
-* [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 * [PRIVATE] [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
 * [PRIVATE] [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
 * [PRIVATE] [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
 * [PRIVATE] [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
 * [PRIVATE] [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
 * [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword)
+* [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
+* [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
 #### My thoughtful questions about the status of programming and computing in general:
 * Why don't we get inspired by git and (urgently, gently) de-duplicate the Web? In 100 years, we'll have more bits than atoms on Earth
