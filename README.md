@@ -271,6 +271,12 @@ The browser the Web 3.0 asked for.
 
 Run HTML5 apps in reduced size as native apps synced in any of your devices.
 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/89318607?s=200&v=4"/> [Floflis Screens](https://github.com/FloflisScreens)
+
+* [davidLauncher](https://github.com/FloflisScreens/davidLauncher)
+
+Hybrid launcher that adapts itself to KaiOS/Firefox OS. Show the adaptive power of Framework.js, which also follows the file deduplication philosophy of FilePeace
+
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/26726098?s=200&v=4"/> [USV Format](https://github.com/usvformat)
 
 * [USV-Format](https://github.com/usvformat/USV-Format)
