@@ -313,6 +313,8 @@ Wanna git preserve your file dates? git-meta stores all files' metadata into .gi
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
 * [Mediantic](https://github.com/FilePeace/Mediantic)
+* [rc-hashing](https://github.com/FilePeace/rc-hashing)
+* [rc-sh-tst](https://github.com/FilePeace/rc-sh-tst)
 
 The new web is semantic. And media have to be semantic, too. 
 
