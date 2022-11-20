@@ -212,7 +212,7 @@ NFT was stored at an nowadays Imageshack and it got offline? Its centralized URL
 
 File that defines which file should/not be downloaded according to conditions.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/17116432?s=200&v=4"/> [Plasmmer Developers](https://github.com/PlasmmerDev)
 
 * [universal-abi](https://github.com/PlasmmerDev/universal-abi)
 
@@ -226,7 +226,11 @@ Brand new experimental & modern tags to facilitate, simplify, complement and spe
 * [Quantum-Markup-Language](https://github.com/PlasmmerDev/Quantum-Markup-Language)
 
 Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on XML; with improvements such as support to datasets.
+
 * [DML](https://github.com/PlasmmerDev/DML)
+
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/88293257?s=200&v=4"/> [FrameworkJS](https://github.com/FrameworkJavascript)
+
 * [Framework.js](https://github.com/FrameworkJavascript/Framework.js)
 
 The Framework that the Web 3.0 deserves
@@ -243,13 +247,13 @@ Connect your Ethereum wallet and see its ETH balances. FrameworkJS Web3 template
 
 Easily make apps using... ...Construct 2 game engine
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/44840459?s=200&v=4"/> [Eventlr](https://github.com/EventlrEngine)
 
 * [Eventlr](https://github.com/EventlrEngine/Eventlr)
 
 Programming made easy from kids to your grandma. Eventlr is the app to create apps, with ridiculously-easy visual event sheets with conditions/actions.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/94411988?s=200&v=4"/> [Firedoge/Web3 HQ](https://github.com/Web3HQ)
 
 * [poodle](https://github.com/Web3HQ/poodle)
 
@@ -258,31 +262,31 @@ Simple search engine for IPFS/.eth sites, using Lunr2
 
 The browser the Web 3.0 asked for.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/50565258?s=200&v=4"/> [HTML5Apps Platform](https://github.com/html5appsplatform)
 
 * [HTML5Apps-Platform](https://github.com/html5appsplatform/HTML5Apps-Platform)
 
 Run HTML5 apps in reduced size as native apps synced in any of your devices.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/26726098?s=200&v=4"/> [USV Format](https://github.com/usvformat)
 
 * [USV-Format](https://github.com/usvformat/USV-Format)
 
 Format created to support the videos of future.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Orgut/Peeper](https://github.com/PeeperSocial)
 
 * [Offline-Peeper-poster](https://github.com/PeeperSocial/Offline-Peeper-poster)
 
 No Internet connection? Draft posts for Peeper!
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/38709808?s=200&v=4"/> [Communicator](https://github.com/CommunicatorMessenger)
 
 * [Chatip](https://github.com/CommunicatorMessenger/Chatip)
 
 Embed version of Communicator, for you put in your site/blog.
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/44071742?s=200&v=4"/> [NeTVision](https://github.com/NetVisionOfficial)
 
 * [YouTube-Calculator](https://github.com/NetVisionOfficial/YouTube-Calculator)
 
@@ -291,7 +295,7 @@ Calc how many views you will have per video, and your AdSense revenue per video 
 
 Write the script for your talks/acts in a video, then easily read while filming (slide with a simple mouse or remotecontrol button press)
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/58575200?s=200&v=4"/> [01 VCS](https://github.com/01VCS)
 
 * [01](https://github.com/01VCS/01)
 
@@ -300,13 +304,13 @@ Git, on steroids. Layer2 for git, ready for the Web 3.0
 
 Wanna git preserve your file dates? git-meta stores all files' metadata into .gitmeta!
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](https://github.com/FilePeace)
 
 * [recursive_files_timestamp](https://github.com/FilePeace/recursive_files_timestamp)
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
 
-##### 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](https://github.com/Gamlr)
 
 * [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
 
