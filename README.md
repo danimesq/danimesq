@@ -80,8 +80,13 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * Why aren't our screenshot files split in parts, containing HTML/CSS/SVG replacing lots of pixels? This could be also merged/intersected with my idea of file de-duplication.
 * Why having a whole new separated video coded to react/duet/reply to another video, when videos could simply be containers building on the top of other? You could deduplicate (and save) a lot of (mega)bytes by just linking a video on the video that wants to insert it. Also, mentioning the previous item: why lots of pixels to have texts/figures on your videos when they could simply be in HTML/CSS/SVG (even the transitions, in CSS)?
 * Git does deduplicate texty files such as HTML/CSV/XML/etc. Shouldn't it also deduplicate the audio's wave forms, images and the same as video frames+audio? Git was primarily made for developers (which mostly uses texty files, obviously), but what about LFS and the app/game's assets? Also, git have the potential for uses beyond the dev space. These advanced deduplicing capabilities shouldn't necessarily be added to git, but to a layer2 for it (or in competitors such as Pijul or a layer2 for both git and/or these competitors/alternatives)
+* Shouldn't Linux support various types of symlinks or even someone make a filesystem heavily based on deduplication? For example, a single symlink merging bytes from more than one file.
+* If you delete a file, rename its containing folder and from the recycle bin you restore it: how will your filesystem/explorer app handle this?
 
-#### 💎🌱 Featured projects
+#### My thoughtful questions about the status of tech:
+* Emojis represents the humanity's expressions; so why the curation of brand new emojis aren't widely open (through a DAO for example)?
+
+#### 💎🌱 Featured organizations & their projects
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
 
 [WIP] Manage personal issues & development as if your life were a git project
