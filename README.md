@@ -100,6 +100,10 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 #### My thoughtful questions about the status of tech:
 * Emojis represents the humanity's expressions; so why the curation of brand new emojis aren't widely open (through a DAO for example)?
 
+#### My experiments
+
+* davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's Future1984 PC should start before becoming a standard)
+
 #### 💎🌱 Featured organizations & their projects
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](https://github.com/Floflis)
