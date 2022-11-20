@@ -178,7 +178,7 @@ Learn how to use your mouse, the most important tool you have to use your comput
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
-* [Web3Updater](https://github.com/Plasmmer/Web3Updater)
+* <img width="16px" src="https://github.com/Plasmmer/Web3Updater/raw/main/logotype.svg"/> [Web3Updater](https://github.com/Plasmmer/Web3Updater)
 
  The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
 * <img width="16px" src="https://github.com/Plasmmer/HTTB/raw/main/logo.png"/> [HTTB](https://github.com/Plasmmer/HTTB)
