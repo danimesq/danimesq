@@ -313,10 +313,14 @@ Wanna git preserve your file dates? git-meta stores all files' metadata into .gi
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
 * [Mediantic](https://github.com/FilePeace/Mediantic)
+
+The new web is semantic. And media have to be semantic, too.
 * [rc-hashing](https://github.com/FilePeace/rc-hashing)
+
+Safely move recordings (and other files) by hashing using IPFS' CID v1
 * [rc-sh-tst](https://github.com/FilePeace/rc-sh-tst)
 
-The new web is semantic. And media have to be semantic, too. 
+Get the timestamp of a recording's moment, cut audio in a specific moment and other tools
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](https://github.com/Gamlr)
 
