@@ -69,6 +69,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
 * [PRIVATE] 📔 [QuickEdit phone notes](https://github.com/danimesq/quickedit)
 * [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles)
+* [PRIVATE] 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 
 #### My thoughtful questions about the status of programming and computing in general:
