@@ -125,7 +125,7 @@ Have AppImage? Now are you missing support for .apps, .game and .html5 files?
 * [batsh-shell](https://github.com/Floflis/batsh-shell)
 
 [WIP] Experimental shell written in shell (metalanguage) to parse the batsh language
-* [Floflis-Central](https://github.com/Floflis/Floflis-Central)
+* [SRC At ETH💎💌] [Floflis-Central](https://github.com/Floflis/Floflis-Central)
 
 [WIP] More than a settings aggregator; its a dashboard for your web3 profile.
 * [rmv](https://github.com/Floflis/rmv)
@@ -156,16 +156,16 @@ Enter an source image (min. 512x512) and get it resized into different sizes and
 
 [WIP] Get user's full name
 * [unistore](https://github.com/Floflis/unistore)
-* [mlq](https://github.com/Floflis/mlq)
+* [SRC At ETH💎💌] [mlq](https://github.com/Floflis/mlq)
 
 jq, but HTML instead of JSON 🧚
 * [logout](https://github.com/Floflis/logout)
 
 [WIP] According to itsfoss: "there is no logout command in Ubuntu or any Linux distribution"; but now there are 🧚
-* [ethgas](https://github.com/Floflis/ethgas)
+* [SRC At ETH💎💌] [ethgas](https://github.com/Floflis/ethgas)
 
 Displays information about Ethereum's gas prices with programmatic-use support
-* [online](https://github.com/Floflis/online)
+* [SRC At ETH💎💌] [online](https://github.com/Floflis/online)
 
 Utility to check if online or offline. Install and just type `online` in the Witchcraft/Terminal; can be used programmatically
 * [shit](https://github.com/Floflis/shit)
@@ -188,7 +188,7 @@ Learn how to use your mouse, the most important tool you have to use your comput
 * <img width="16px" src="https://github.com/Plasmmer/Web3Updater/raw/main/logotype.svg"/> [Web3Updater](https://github.com/Plasmmer/Web3Updater)
 
  The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
-* <img width="16px" src="https://github.com/Plasmmer/HTTB/raw/main/logo.png"/> [HTTB](https://github.com/Plasmmer/HTTB)
+* [SRC At ETH💎💌] <img width="16px" src="https://github.com/Plasmmer/HTTB/raw/main/logo.png"/> [HTTB](https://github.com/Plasmmer/HTTB)
 
 The HTTP server purely written in Bash! "HTTB" stands for Hyper Text Transfer Bash. Imagine nginx, but written in shell.
 * [SharedBytes](https://github.com/Plasmmer/SharedBytes)
@@ -203,7 +203,7 @@ Leverage Floflis Packager but not limited to it
 * [Scripting-Knowledge](https://github.com/Plasmmer/Scripting-Knowledge)
 
 Knowledge base for awesome tricks for Bash and other scripting languages
-* [Future1984](https://github.com/Plasmmer/Future1984)
+* [SRC At ETH💎💌] [Future1984](https://github.com/Plasmmer/Future1984)
 
 The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: black-white e-ink, RISC-V and Rust.
 * [Undefined] [Car](https://github.com/Plasmmer/Car)
@@ -213,7 +213,7 @@ Shared design principles that inherits from Material Design, Human Design and Fl
 * [Plugz](https://github.com/Plasmmer/Plugz)
 
 Building/compiling, now like a cake recipe 🍰 Make simpler software using independent dependencies. Get build recipes from JSON files, parse source-code and binary links from both centralized and decentralized sources, do different builds to different targets.
-* [SharedChain](https://github.com/Plasmmer/SharedChain)
+* [SRC At ETH💎💌] [SharedChain](https://github.com/Plasmmer/SharedChain)
 
 NFT was stored at an nowadays Imageshack and it got offline? Its centralized URL will have an IPFS match! This is one of a lot of examples of how SharedChain can be used.
 * [Download.json](https://github.com/Plasmmer/Download.json)
