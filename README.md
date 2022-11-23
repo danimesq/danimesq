@@ -140,7 +140,7 @@ Enter an source image (min. 512x512) and get it resized into different sizes and
 [WIP] Make a working and lightweight Electron app for Floflis.
 * [WFS](https://github.com/Floflis/WFS)
 
-[WIP] Web File System - a working file system for web OSes, using IPFS for syncing files between local and other devices/services such as Pinata 
+[WIP] Web File System - a working file system for web OSes, using IPFS for syncing files between local and other devices/services such as Pinata. Yes: store your files at your browser and share'em/access in any other place. 
 * [wq](https://github.com/Floflis/wq)
 
 [WIP] Use jq or mlq to write, in one line
