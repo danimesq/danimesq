@@ -2,3 +2,11 @@
 - development software I use (Construct 2)
 - 16x16 icons for all repos
 - social img for all repos
+
+repos to add to README.md
+https://github.com/Floflis/Schoolbag
+https://github.com/Floflis/Notestick
+https://github.com/Floflis/Feedback
+https://github.com/Floflis/davidCamera
+https://github.com/Floflis/ColorPicker
+https://github.com/Floflis/TouchPass
