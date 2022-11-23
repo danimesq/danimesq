@@ -1,0 +1,8 @@
+chown -h 1000:1000 './README.md'
+chmod 0777 './README.md'
+/usr/bin/touch -hcmd "2022-11-21 19:58:17.0537775000 -0300" './README.md'
+/usr/bin/touch -hcad "2022-11-21 19:58:49.7101343000 -0300" './README.md'
+chown -h 1000:1000 './Tasks.txt'
+chmod 0777 './Tasks.txt'
+/usr/bin/touch -hcmd "2022-11-20 19:34:26.7738540000 -0300" './Tasks.txt'
+/usr/bin/touch -hcad "2022-11-22 21:01:38.1160745000 -0300" './Tasks.txt'
