@@ -120,7 +120,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 * davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's [Future1984](https://github.com/Plasmmer/Future1984) PC should start before becoming a standard)
 
-These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile)
+These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!)
 
 #### 💎🌱 Featured organizations & their projects
 
@@ -198,6 +198,23 @@ Add JsonFeed files and receive notifications on new content.
 
 Learn how to use your mouse, the most important tool you have to use your computer!
 * [NFT Generator](https://github.com/Floflis/nft-generator)
+* [Schoolbag](https://github.com/Floflis/Schoolbag)
+
+The app for office's/school's smart tables. 
+* [Notestick](https://github.com/Floflis/Notestick)
+
+Experiment of a sticky notes app made with Construct 2. 
+* [Feedback](https://github.com/Floflis/Feedback)
+
+Send a feedback from Floflis
+* [davidCamera](https://github.com/Floflis/davidCamera)
+
+Just another camera app, I guess 😜
+* [ColorPicker](https://github.com/Floflis/ColorPicker)
+
+Pick a color from a screen, apply it to another screen/e-ink surface
+* [TouchPass](https://github.com/Floflis/TouchPass)
+* [nftbg](https://github.com/Floflis/nftbg)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
