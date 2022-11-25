@@ -1,6 +1,6 @@
 ### Hi there 👋🥰
 
-<center><img src="https://ipfs.io/ipfs/QmcswnJCYrCxmB4TqGrBTgPCfsZcUm1Ty5DmJL74Dxxv5N/nft.jpg"/></center>
+<center><img width="300px" src="https://ipfs.io/ipfs/QmcswnJCYrCxmB4TqGrBTgPCfsZcUm1Ty5DmJL74Dxxv5N/nft.jpg"/></center>
 
 #### 📈 GitHub Statistics
 <p align="center" style="witdh:100%">
