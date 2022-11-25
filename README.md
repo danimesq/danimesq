@@ -1,5 +1,19 @@
 ### Hi there 👋🥰
 
+<center><img src="ipfs://QmcswnJCYrCxmB4TqGrBTgPCfsZcUm1Ty5DmJL74Dxxv5N/nft.jpg"/></center>
+
+#### 📈 GitHub Statistics
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
+<p align="center" style="witdh:100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=danimesq&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
+</p>
+<p align="center" style="witdh:100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimesq&langs_count=6&layout=compact&theme=dracula" />
+</p>
+Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
+
 [![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
 [![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
 [![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
