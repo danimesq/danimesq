@@ -12,6 +12,7 @@
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimesq&langs_count=6&layout=compact&theme=dracula" />
 </p>
+
 Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
 
 [![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
