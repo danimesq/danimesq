@@ -1,6 +1,10 @@
 ### Hi there 👋🥰
 
-<center><img width="300px" src="https://ipfs.io/ipfs/QmcswnJCYrCxmB4TqGrBTgPCfsZcUm1Ty5DmJL74Dxxv5N/nft.jpg"/></center>
+[![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
+[![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
+[![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
+
+<center><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/> <img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></center>
 
 #### 📈 GitHub Statistics
 <p align="center" style="witdh:100%">
@@ -15,14 +19,65 @@
 
 Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
 
-[![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
-[![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
-[![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+</a>
 
+- 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
+- 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
+- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
+- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
+- 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
+
+----
+
+1. I give new life to old, once abandoned software/tools;
+2. I give life to brand new, unthought software/tools that gives new life.
+
+----
+
+### Table of Contents
+
+- [Languages](#languages)
+- [Back-end development](#back-end-development)
+- [App development](#app-development)
+- [Interested in](interested-in)
+- [Currently learning](currently-learning)
+- [🏢 Organizations](#-organizations)
+- [My personal repos](#my-personal-repos)
+
+  - [Personal: Gaming/Metaverse](#personal-gamingmetaverse)
+
+- [My thoughtful questions about the status of programming and computing in general](#my-thoughtful-questions-about-the-status-of-programming-and-computing-in-general)
+- [My thoughtful questions about the status of tech](my-thoughtful-questions-about-the-status-of-tech)
+- [My experiments](my-experiments)
+- [💎🌱 Featured organizations & their projects](#-featured-organizations--their-projects)
+
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](#-floflis)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](#-plasmmer)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/17116432?s=200&v=4"/> [Plasmmer Developers](#-plasmmer-developers)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/88293257?s=200&v=4"/> [FrameworkJS](#-frameworkjs)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/44840459?s=200&v=4"/> [Eventlr](#-eventlr)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/94411988?s=200&v=4"/> [Firedoge/Web3 HQ](#-firedogeweb3-hq)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/50565258?s=200&v=4"/> [HTML5Apps Platform](#-html5apps-platform)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/89318607?s=200&v=4"/> [Floflis Screens](#-floflis-screens)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/26726098?s=200&v=4"/> [USV Format](#-usv-format)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Orgut/Peeper](#-orgutpeeper)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/38709808?s=200&v=4"/> [Communicator](#-communicator)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/44071742?s=200&v=4"/> [NeTVision](#-netvision)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/58575200?s=200&v=4"/> [01 VCS](#-01-vcs)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](#-filepeace)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](#-gamlr)
 
 #### Languages
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=for-the-badge&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Json](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
+
+- ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
+
 
 #### Back-end development
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ?
@@ -31,19 +86,24 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 #### App development
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 
-----
+#### Interested in:
+![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
+![Solidity](https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=solidity)
+![ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-383838?style=flat-square&logo=ethereum)
+![ReactNative](https://img.shields.io/badge/-React/React%20Native-575d91?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
+![Rust](https://img.shields.io/badge/-Rust-f46623?style=flat-square&logo=rust)
 
+- ![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square)
+![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
+![Batch](https://img.shields.io/badge/-Batch/MsDos-black?style=flat-square)
+![Regedit](https://img.shields.io/badge/-Regedit-black?style=flat-square)
 
-- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
-- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
-- 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
-- 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
-- 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
-
-----
-
-1. I give new life to old, once abandoned software/tools;
-2. I give life to brand new, unthought software/tools that gives new life.
+#### Currently learning
+![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 
 ----
 
