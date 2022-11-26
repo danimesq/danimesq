@@ -165,6 +165,8 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
+----
+
 #### My thoughtful questions...
 
 ##### ...about the status of programming and computing in general:
@@ -182,6 +184,8 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 ##### ...about the status of tech:
 * Emojis represents the humanity's expressions; so why the curation of brand new emojis aren't widely open (through a DAO for example)?
+
+----
 
 #### My experiments
 
