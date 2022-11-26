@@ -42,8 +42,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 
 #### Interested in:
-![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
-![PHP](https://img.shield![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
 ![Solidity](https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=solidity)
@@ -58,6 +57,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 
 #### Currently learning
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 
 ----
 
