@@ -32,7 +32,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 ----
 
 1. I give new life to old, once abandoned software/tools;
-2. I give life to brand new, unthought software/tools that gives new life.
+2. I give birth to brand new, unthought software/tools that gives new life.
 
 ----
 
