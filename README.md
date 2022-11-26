@@ -90,7 +90,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 ![Json](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 
 - ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
-- ![Emmet](https://img.shields.io/badge/-Emmet-black?style=flat-square)
+![Emmet](https://img.shields.io/badge/-Emmet-black?style=flat-square)
 
 ##### Back-end development
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ?
