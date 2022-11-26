@@ -23,6 +23,19 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 
+- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
+- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
+- 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
+- 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
+- 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
+
+----
+
+1. I give new life to old, once abandoned software/tools;
+2. I give life to brand new, unthought software/tools that gives new life.
+
+----
+
 ### Table of Contents
 
 - [Languages](#languages)
@@ -91,20 +104,6 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 #### Currently learning
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
-
-----
-
-
-- 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
-- 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
-- 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
-- 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
-- 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
-
-----
-
-1. I give new life to old, once abandoned software/tools;
-2. I give life to brand new, unthought software/tools that gives new life.
 
 ----
 
