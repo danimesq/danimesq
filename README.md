@@ -49,6 +49,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 ![ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-383838?style=flat-square&logo=ethereum)
 ![ReactNative](https://img.shields.io/badge/-React/React%20Native-575d91?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
+![Rust](https://img.shields.io/badge/-Rust-b36800?style=flat-square&logo=rust)
 
 - ![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
