@@ -39,17 +39,22 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 ### Table of Contents
 
 - [Languages](#languages)
-- [Back-end development](#back-end-development)
-- [App development](#app-development)
-- [Interested in](interested-in)
-- [Currently learning](currently-learning)
+
+  - [Back-end development](#back-end-development)
+  - [App development](#app-development)
+  - [Interested in](#interested-in)
+  - [Currently learning](#currently-learning)
+
 - [🏢 Organizations](#-organizations)
 - [My personal repos](#my-personal-repos)
 
   - [Personal: Gaming/Metaverse](#personal-gamingmetaverse)
 
-- [My thoughtful questions about the status of programming and computing in general](#my-thoughtful-questions-about-the-status-of-programming-and-computing-in-general)
-- [My thoughtful questions about the status of tech](my-thoughtful-questions-about-the-status-of-tech)
+- [My thoughtful questions](#my-thoughtful-questions)
+
+  - [My thoughtful questions about the status of programming and computing in general](#about-the-status-of-programming-and-computing-in-general)
+  - [My thoughtful questions about the status of tech](#about-the-status-of-tech)
+
 - [My experiments](my-experiments)
 - [💎🌱 Featured organizations & their projects](#-featured-organizations--their-projects)
 
@@ -79,14 +84,14 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 - ![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
 
 
-#### Back-end development
+##### Back-end development
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ?
 (Hey, I'm still learning NodeJS 🤭)
 
-#### App development
+##### App development
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 
-#### Interested in:
+##### Interested in:
 ![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
@@ -101,7 +106,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 ![Batch](https://img.shields.io/badge/-Batch/MsDos-black?style=flat-square)
 ![Regedit](https://img.shields.io/badge/-Regedit-black?style=flat-square)
 
-#### Currently learning
+##### Currently learning
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 
@@ -160,7 +165,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
-#### My thoughtful questions about the status of programming and computing in general:
+#### My thoughtful questions...
+
+##### ...about the status of programming and computing in general:
 * Why don't we get inspired by git and (urgently, gently) de-duplicate the Web? In 100 years, we'll have more bits than atoms on Earth
 * Why having to copy and paste your bio between sites (and leaving leftovers in sites you don't remember often) just to update a number for your birthday age, when they could be centered in a single place where other sites gets the plain text from?
 * Ethereum came to question Bitcoin's limitations. But, currently, there are no layer1 projects LEGITIMATELY questioning Ethereum other than BrightID's IDChain. Cardano? Solana? All other "ethereum-killer"s? They are to Ethereum just what BitcoinCash/Litecoin are to Bitcoin.
@@ -173,7 +180,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * Shouldn't Linux support various types of symlinks or even someone make a filesystem heavily based on deduplication? For example, a single symlink merging bytes from more than one file.
 * If you delete a file, rename its containing folder and from the recycle bin you restore it: how will your filesystem/explorer app handle this?
 
-#### My thoughtful questions about the status of tech:
+##### ...about the status of tech:
 * Emojis represents the humanity's expressions; so why the curation of brand new emojis aren't widely open (through a DAO for example)?
 
 #### My experiments
