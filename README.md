@@ -185,6 +185,8 @@ These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hy
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/18749146?s=200&v=4"/> [Floflis](https://github.com/Floflis)
 
+Beyond the Web3, Floflis is leading operating systems at what an modern OS should look like. You can contribute with visual event-sheets and Bash.
+
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
 
 [WIP] Manage personal issues & development as if your life were a git project
@@ -277,6 +279,8 @@ Pick a color from a screen, apply it to another screen/e-ink surface
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
+Decentralized, open-source software/hardware manufacturer based on a DAO and Ethereum's tokenized economy (includes NFTs).
+
 * <img width="16px" src="https://github.com/Plasmmer/Web3Updater/raw/main/logotype.svg"/> [Web3Updater](https://github.com/Plasmmer/Web3Updater)
 
  The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
@@ -332,6 +336,8 @@ Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/88293257?s=200&v=4"/> [FrameworkJS](https://github.com/FrameworkJavascript)
 
+The framework for the Web 3.0. Smart & adaptive: just like an octopus. Web, Electron, KaiOS, Cordova or even Firefox OS? Checked.
+
 * [Framework.js](https://github.com/FrameworkJavascript/Framework.js)
 
 The Framework that the Web 3.0 deserves
@@ -371,6 +377,8 @@ Run HTML5 apps in reduced size as native apps synced in any of your devices.
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/89318607?s=200&v=4"/> [Floflis Screens](https://github.com/FloflisScreens)
 
+Firefox OS -> KaiOS -> Project Pris/GerdaOS -> Floflis Screens (hybrid of feature and touch phones).
+
 * [davidLauncher](https://github.com/FloflisScreens/davidLauncher)
 
 Hybrid launcher that adapts itself to KaiOS/Firefox OS. Show the adaptive power of Framework.js, which also follows the file deduplication philosophy of FilePeace
@@ -388,6 +396,8 @@ Format created to support the videos of future.
 No Internet connection? Draft posts for Peeper!
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38709808?s=200&v=4"/> [Communicator](https://github.com/CommunicatorMessenger)
+
+[Outdated description - updates coming] Decentralized, lovely and funny messenger in Ethereum blockchain.
 
 * [Chatip](https://github.com/CommunicatorMessenger/Chatip)
 
@@ -413,6 +423,8 @@ Wanna git preserve your file dates? git-meta stores all files' metadata into .gi
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](https://github.com/FilePeace)
 
+Floflis' project to sync, preserve the history and backup/protect your files.
+
 * [folderstamp](https://github.com/FilePeace/folderstamp)
 
 Preserve/snapshot the current state of a folder, with its file list and timestamps
@@ -428,6 +440,18 @@ Get the timestamp of a recording's moment, cut audio in a specific moment and ot
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](https://github.com/Gamlr)
 
+Game producer in form of a guild/DAO. Our games don't require programming knowledge (using visual event-sheets) so anyone can contribute and earn GAME tokens.
+
 * [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
 
 Prepares and joints your game's controller and screen
+
+<details>
+  <summary>[Spoiler] Test?</summary>
+ 
+ ---
+
+Spoiler
+
+ ---
+</details>
