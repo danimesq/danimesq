@@ -1,5 +1,9 @@
 ### Hi there 👋🥰
 
+[![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
+[![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
+[![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
+
 <center><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/> <img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></center>
 
 #### 📈 GitHub Statistics
@@ -18,10 +22,6 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
-
-[![🌳Linktree](https://img.shields.io/badge/🌳Linktree-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://linktr.ee/idaniella)
-[![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
-[![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
 
 
 #### Languages
