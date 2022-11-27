@@ -145,14 +145,14 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 ##### Personal: Gaming/Metaverse
 
 * [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
-* [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
-* [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
-* [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
-* [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Gameboy_green_icon.svg"/> [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
+* <img width="16px" src="https://www.freeiconspng.com/img/17227"/> [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Black_Nintendo_DS_icon.png"/> [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
+* <img width="16px" src="https://www.kindpng.com/picc/m/24-248262_letter-x-logo-pokemon-x-logo-hd-png.png"/> [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
 * [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword-old)
-* [My PokeJourneys Pokemon Sword](https://github.com/danimesq/journeys-sword)
-* [My PokeJourneys Pokemon Scarlet](https://github.com/danimesq/journeys-scarlet)
-* [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
+* <img width="16px" src="https://seeklogo.com/images/P/pokemon-sword-logo-F867D564B7-seeklogo.com.png"/> [My PokeJourneys Pokemon Sword](https://github.com/danimesq/journeys-sword)
+* <img width="16px" src="https://assets-prd.ignimgs.com/2022/08/03/pokemon-scarlet-1659542292648.jpg?width=300&crop=1%3A1%2Csmart"/> [My PokeJourneys Pokemon Scarlet](https://github.com/danimesq/journeys-scarlet)
+* <img width="16px" src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png"/> [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
 ----
