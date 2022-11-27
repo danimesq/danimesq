@@ -144,7 +144,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 ##### Personal: Gaming/Metaverse
 
-* [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
+* <img width="16px" src="https://cdn.icon-icons.com/icons2/851/PNG/512/poke_trainer_three_star_icon-icons.com_67512.png"/> [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
 * <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Gameboy_green_icon.svg"/> [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
 * <img width="16px" src="https://www.kindpng.com/picc/m/33-332756_gameboy-icons-game-boy-advance-icon-png-transparent.png"/> [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
 * <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Black_Nintendo_DS_icon.png"/> [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
