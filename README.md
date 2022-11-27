@@ -149,6 +149,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * <img width="16px" src="https://www.kindpng.com/picc/m/33-332756_gameboy-icons-game-boy-advance-icon-png-transparent.png"/> [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
 * <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Black_Nintendo_DS_icon.png"/> [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
 * <img width="16px" src="https://www.kindpng.com/picc/m/24-248262_letter-x-logo-pokemon-x-logo-hd-png.png"/> [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
+* My PokeJourneys Pokemon AquaSapphire
 * My PokeJourneys Pokemon Let's Go Eevee
 * [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword-old)
 * <img width="16px" src="https://seeklogo.com/images/P/pokemon-sword-logo-F867D564B7-seeklogo.com.png"/> [My PokeJourneys Pokemon Sword](https://github.com/danimesq/journeys-sword)
