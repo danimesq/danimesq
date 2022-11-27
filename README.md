@@ -149,7 +149,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
 * [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
 * [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
-* [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword)
+* [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword-old)
+* [My PokeJourneys Pokemon Sword](https://github.com/danimesq/journeys-sword)
+* [My PokeJourneys Pokemon Scarlet](https://github.com/danimesq/journeys-scarlet)
 * [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
