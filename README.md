@@ -139,18 +139,24 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles)
 * [PRIVATE] 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
-* [aquarium-site](https://github.com/danimesq/aquarium-site)
-* [PRIVATE] [HinosFav](https://github.com/danimesq/HinosFav)
+* 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
+* [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
 
 ##### Personal: Gaming/Metaverse
 
-* [PRIVATE] [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
-* [PRIVATE] [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
-* [PRIVATE] [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
-* [PRIVATE] [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
-* [PRIVATE] [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
-* [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword)
-* [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
+* <img width="16px" src="https://cdn.icon-icons.com/icons2/851/PNG/512/poke_trainer_three_star_icon-icons.com_67512.png"/> [My PokeJourney tasks/guides](https://github.com/danimesq/PokeJourneyTasks)
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Gameboy_green_icon.svg"/> [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
+* <img width="16px" src="https://www.kindpng.com/picc/m/33-332756_gameboy-icons-game-boy-advance-icon-png-transparent.png"/> [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
+* <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Black_Nintendo_DS_icon.png"/> [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
+* <img width="16px" src="https://www.kindpng.com/picc/m/24-248262_letter-x-logo-pokemon-x-logo-hd-png.png"/> [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
+* My PokeJourneys Pokemon AquaSapphire
+* My PokeJourneys Pokemon Let's Go Eevee
+* [PRIVATE] [My PokeJourneys old emulated Pokemon Sword](https://github.com/danimesq/journeys-sword-old)
+* <img width="16px" src="https://seeklogo.com/images/P/pokemon-sword-logo-F867D564B7-seeklogo.com.png"/> [My PokeJourneys Pokemon Sword](https://github.com/danimesq/journeys-sword)
+* My PokeJourneys Pokemon Shining Pearl
+* My PokeJourneys Pokemon Legends: Arceus
+* <img width="16px" src="https://assets-prd.ignimgs.com/2022/08/03/pokemon-scarlet-1659542292648.jpg?width=300&crop=1%3A1%2Csmart"/> [My PokeJourneys Pokemon Scarlet](https://github.com/danimesq/journeys-scarlet)
+* <img width="16px" src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png"/> [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
 ----
