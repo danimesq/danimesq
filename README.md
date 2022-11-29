@@ -20,15 +20,36 @@
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api?username=danimesq&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- Total Stars Earned: 5 -->
+<!-- Total Commits (2022): 1.9k -->
+<!-- Total PRs: 221 -->
+<!-- Total Issues: 3.5k -->
+<!-- Contributed to (last year): 180 -->
+<!-- A++ -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimesq&langs_count=6&layout=compact&theme=dracula" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- Most Used Languages -->
+<!-- 74.54% JavaScript -->
+<!-- 17.44% HTML -->
+<!-- 6.23% CSS -->
+<!-- 1.79% Shell -->
 
 Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
+<!-- ETHEREUM - captioning: -->
+<!-- dani 'SO learn value newbies' -->
+<!-- Brasil -->
+<!-- Reputation: 123 -->
+<!-- Answers: 8 -->
+<!-- Questions: 23 -->
+<!-- Profile views: 68 -->
+<!-- Badges: 0 gold, 0 silver, 14 bronze -->
 
 - 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
 - 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
