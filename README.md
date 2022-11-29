@@ -10,6 +10,13 @@
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
+<!-- [1 normal "S" trophy] Organizations - Jack of all Trades - 28pt -->
+<!-- [3 "S" gold trophies] Issues - God Issuer - 3.5kpt -->
+<!-- [1 gold "S" trophy] Commits - Super Committer - 1.9pt -->
+<!-- [1 gold "S" trophy] PullRequest - Super Puller - 221pt -->
+<!-- [3 blue "A" trophies] Repositories - Ultra Repo Creator - 73pt -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api?username=danimesq&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
 </p>
