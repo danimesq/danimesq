@@ -281,6 +281,8 @@ Just another camera app, I guess 😜
 
 Pick a color from a screen, apply it to another screen/e-ink surface
 * [TouchPass](https://github.com/Floflis/TouchPass)
+
+NFC password manager
 * [nftbg](https://github.com/Floflis/nftbg)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
