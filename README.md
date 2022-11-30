@@ -10,18 +10,46 @@
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
+<!-- [1 normal "S" trophy] Organizations - Jack of all Trades - 28pt -->
+<!-- [3 "S" gold trophies] Issues - God Issuer - 3.5kpt -->
+<!-- [1 gold "S" trophy] Commits - Super Committer - 1.9pt -->
+<!-- [1 gold "S" trophy] PullRequest - Super Puller - 221pt -->
+<!-- [3 blue "A" trophies] Repositories - Ultra Repo Creator - 73pt -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api?username=danimesq&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- Total Stars Earned: 5 -->
+<!-- Total Commits (2022): 1.9k -->
+<!-- Total PRs: 221 -->
+<!-- Total Issues: 3.5k -->
+<!-- Contributed to (last year): 180 -->
+<!-- A++ -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimesq&langs_count=6&layout=compact&theme=dracula" />
 </p>
+<!-- ETHEREUM - captioning: -->
+<!-- Most Used Languages -->
+<!-- 74.54% JavaScript -->
+<!-- 17.44% HTML -->
+<!-- 6.23% CSS -->
+<!-- 1.79% Shell -->
 
 Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
+<!-- ETHEREUM - captioning: -->
+<!-- dani 'SO learn value newbies' -->
+<!-- Brasil -->
+<!-- Reputation: 123 -->
+<!-- Answers: 8 -->
+<!-- Questions: 23 -->
+<!-- Profile views: 68 -->
+<!-- Badges: 0 gold, 0 silver, 14 bronze -->
 
 - 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
 - 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
@@ -138,6 +166,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 📔 [QuickEdit phone notes](https://github.com/danimesq/quickedit)
 * [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles)
 * [PRIVATE] 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
+* [PRIVATE] [dossier1](https://github.com/danimesq/dossier1)
+* [PRIVATE] [DossierTicketsTransfers](https://github.com/danimesq/DossierTicketsTransfers)
+* [PRIVATE] [DossierTicketsInternacoes](https://github.com/danimesq/DossierTicketsInternacoes)
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 * 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
 * [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
