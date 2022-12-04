@@ -172,6 +172,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 * 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
 * [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
+* [investpad](https://github.com/danimesq/investpad)
+* [PRIVATE] [PhoneNotifications](https://github.com/danimesq/PhoneNotifications)
+* [PRIVATE] [oldnotes](https://github.com/danimesq/oldnotes)
 
 ##### Personal: Gaming/Metaverse
 
