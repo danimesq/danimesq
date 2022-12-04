@@ -318,6 +318,12 @@ Pick a color from a screen, apply it to another screen/e-ink surface
 
 NFC password manager
 * [nftbg](https://github.com/Floflis/nftbg)
+* [icons](https://github.com/Floflis/icons)
+* [nu-post-install](https://github.com/Floflis/nu-post-install)
+* [Eleganse-Floflis](https://github.com/Floflis/Eleganse-Floflis)
+* [guppy](https://github.com/Floflis/guppy)
+
+Leverage neofetch with neofetch-themes
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
