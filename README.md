@@ -501,7 +501,7 @@ Prepares and joints your game's controller and screen
 
 Anyone who see my apps/scripts/games/designs/projects/etc can't imagine my sensual side.
   
-<img src="https://ipfs.io/ipfs/QmT6sGJs4ohBo33AJYdTwbcPnCxeFbXGyDGRkYDwQm7Niz/nft.jpg"> <img src="https://ipfs.io/ipfs/QmWjvVZjNRsEJq12HAKksZcB9sFNFoPdQLZZN7Qta8QgHr/nft.jpg"> <img src="https://ipfs.io/ipfs/QmVhj6Qiej32n7eWgViGEGYPQDA5VdwMbGpzfRKpoBJvEt/nft.jpg">
+<img width="500px" src="https://ipfs.io/ipfs/QmT6sGJs4ohBo33AJYdTwbcPnCxeFbXGyDGRkYDwQm7Niz/nft.jpg"> <img width="500px" src="https://ipfs.io/ipfs/QmWjvVZjNRsEJq12HAKksZcB9sFNFoPdQLZZN7Qta8QgHr/nft.jpg"> <img width="500px" src="https://ipfs.io/ipfs/QmVhj6Qiej32n7eWgViGEGYPQDA5VdwMbGpzfRKpoBJvEt/nft.jpg">
 
 Anyone who see my sensual side cannot imagine my intelectual side.
 
