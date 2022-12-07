@@ -1,0 +1,171 @@
+- joint all phn scnshts and DCIM, timestamp
+- extract and joint all lnx scrnshts, then deduplicate using img versioning, timestamp; add phn scnshts
+fl dl sharedbytes presets
+gipfs get all versions of an ens site then git and srv only obj of crrnt fles
+HTML5Apps Pltfrm on Windows use Cgwn or WSL
+
+- Firedoge newtab addon: apps and games to install; opens on new tab.
+
+
+
+Floflis Screens annotate task: featurephone mode (enables to switch to test modes on Firefox OS sim, and also should work on secondary screen of Plasmmer Phone PRO)
+- Plasmmer Phone are wireless colored feature phones based in Floflis Screens; Plasmmer Phone PRO have a sliding physical keyboard that can be upgraded to touch screen.
+NFT collection "Adopt a first-time-Internet user"
+
+
+
+- KaiOS sim: FrameworkJS, Pocket Kitten
+- respond anbox
+restart and test Anbox
+
+- Firedoge anotate task: new icon (for stable release)
+
+new for the USV spec:
+- local files (.usvx) or external CIDs (.usv), audio and video
+-
+- conditional scenes, being included or excluded according to localization/i18n
+- clickable cards (allowlist/denylist for links can be defined by the embed's host)
+-
+- CSS scene transitions
+
+- re-factor USV PoC Player (read directly from .usv file communicating with Bash)
+- remove C2 load screen
+- using Kongregate or Scirra Arcade, Player is embedable. From URL know what video to load (local file, http URL, CID). Replace bash .usv decompressing by pure JS if not Electron
+
+
+
+
+- divide Framework r3 into FMWK Base (npm package) and FMWK Full
+
+- backup my Nokia phone's recovery and ROM, prepare for GerdaOS
+- backup my Alcatel phone's recovery and ROM, prepare for flashing Gaia
+
+David Launcher to work both at Firefox OS, GerdaOS AND Web:
+- Modify KaiOS sim 2.5's launcher to have plain text (backup original)
+- Also modify FxOS sim's launcher using the same file (backup original)
+- Works? Now use FMWK; Change layout according to platform (on KaiOS shows footer labels; on FxOS and Web turns into buttons)
+- Works? Now display date/time on both KaiOS and FxOS
+- Works? Now list apps on both KaiOS and FxOS (while displaying msg at Web)
+
+- Start moving parts from Screens, such as Launcher module, Lockscreen module.
+Lockscreen will start to be merged with Firefox OS Gaia's lockscreen
+
+Firedoge Ads
+Use the same Floflis Accounts.
+Enable creating Advertiser profile, then adding ads for review. Ad types: new tab background+link, sites that have added the Firedoge Ads embed.
+-
+Beam Ads scan outdoor screen and start filling ad form. Pay with ETH/token and get approved in minutes
+
+FMWK for C2 use GTK module so apps will have consistent theme
+
+- FMWK r3: return platform (Firefox OS, KaiOS, www, localhost, IPFS)
+
+- FMWK r3: detect Electron platform
+- FMWK r3: detect Tauri platform
+
+- FMWK C2 will receive FMWK r3 and display advanced tricks to learn (such as c2export and HTML + scripts folders, detect platform, C2 function, get value from JS (Personal Issues timestamp), display output of sh, run sh/program/app, loop listing, read from HTML input content, change HTML input content)
+- Floflis Central count items
+- Personal Issues "New Issues" as HTML dialog
+- Writer in HTML
+- Writer "File" menu where "Save", "Save as..." and "Describe changes" uses git/pijul to preserve files
+- Screens Explorer simple tasks
+- Alertz app and core; develop single-news feeds
+- Floflis next-build team: Floflis Packager r3, FMWK C2 (special folder), Personal Issues (writes to absolute path), Internet Cat, Writer, Screens Explorer
+Icons will be added to the "Other" category of Explore menu
+- p map at site <> desktop
+- p snpsh @ Polygon
+
+rename FirefloflisNewTab to Floflis Tab
+Soon: doge ads (start page background, most accessed, news - soon for sites) accepting DOG tokens and paying WEB to vwrs
+WebDAO and doge, g nltcs
+
+Gamlr site:
+Sample Runny Car isolated features (vib, badges/achievements, AirConsole)
+C2 recommend addons for games (also, apps)
+Its preferrable if you are a indi gamedev
+g nltcs
+
+Gamlr for C2:
+- AirConsole
+- Vib gamepad
+- Electron
+- Cordova
+- Steam
+- Xbox
+- Web3/Ethereum (authentication, tokens, NFTs, IPFS)
+g nltcs
+
+FMWK for C2
+- lnk to Gamlr for C2
+- HTML/iframe
+- template
+- Electron
+- Cordova
+- Web3/Ethereum (authentication, tokens, NFTs, IPFS)
+g nltcs
+
+resume FMWK (after ds st)
+-
+Plasmmer Health PoC FMWK app
+-
+Plasmmer Health most important feature: co-pilot:
+Tell the symptoms and AI will tell the possible causes and what examination to do
+-
+Plasmmer Health will have its Digital Wellbeing sector
+-
+FMWK: use ipfs-js to sd site
+
+- Eventlr count fix
+
+- compare Internet Cat's read-from-input-value with davidExplorer's own
+
+- screenshot in repos' README.md (Explorer, Central, Writer, Personal Issues, Floflis Application Handler, Chatip)
+
+.nu handler will identify when file isn't marked as executable and, like Java, will warn (will use the executable-warn.sh shared script that may be used by Floflis Application Handler)
+
+- experiment with site clonning through addon (gipfs)
+- Fix newtab addon (and submit)
+- test Messaging fx addon
+- Fix Internet Cat
+- Merge newtab into Internet Cat
+
+musiclr anotate task: decide the amount of musics to play until the next shuffle (default: 5)
+
+first NeTVision sample JSON
+
+FMWK Hugo - CLI to install it, and to change its comment sys and other settings/gadgets/etc
+
+- multi-platform c2 game
+
+Internet Boat and Internet Cat will be merged into davidInternet; with support to Chromium extensions (/media/daniell/B/1/personal/projects/Desktop/Browser/Notes/Support for extensions)
+
+- Chatip fix and test embed
+
+fl Cmnc placeholder app
+Create repo for Communicator, based in FMWK for C2
+Annotate task: interact with ModemManager CLI to manage SMS and Calls
+-
+Cmmnctr groups import from wpp and make DAOs, admins are holders/voters
+
+01
+- .01 folder is the main
+- pre-commit: vrsion image files using external prgrm, remove the image files from the stage, commit (prepare it for supporting git checkout)
+- pre-commit: before implementing, is it possible to extract audio and images from video, then reversing and keeping same cid? And, can vrsion audio files?
+- test the capability of versioning audio files, through normal and playback versions
+- pre-commit: extract from added compressed files, verify the extracted files (recursively), remove the compressed files from the stage, commit (containing the compressed file name+cid and list of its files)
+- pre-commit also extracting binary files (list of supported files will be constantly updated, start with .exe and others)
+- When checking out a git folder, reproduce the same compressed/binary files with same cid
+
+GIPFS will use 01, but no need for supporting compressed/binary files, yet (but need of supporting image files)
+rename GIPFS to MVFS (or split with CPFS)
+gipfs - layer2 for ipfs
+- works only for specific file types, but also imgs!
+- get gipfs CID from a ipfs CID (IPLD or Omni)
+- gipfs:// protocol (metamask/gipfs companion, ens)
+- mix with AddressTower
+
+layer3 for GIPFS (call it MVFS and rename GIPFS to CPFS?)
+- use sharedbytes to use HTML or img diff in some parts (for example, an messaging app can use HTML in their app screenshot and img diff in other parts that contains the OS UI)
+
+Fl app that will be useable: Feofle
+useable by e.g CmmnChn
