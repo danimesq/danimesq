@@ -101,6 +101,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
   - <img width="16px" src="https://avatars.githubusercontent.com/u/58575200?s=200&v=4"/> [01 VCS](#-01-vcs)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](#-filepeace)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](#-gamlr)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](#-partidovelho)
 
 These are some of my projects that I turned into organizations.
 
@@ -162,23 +163,26 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 #### My personal repos
 * [PRIVATE] 💉 [Vaccines](https://github.com/danimesq/Personal-Vaccines)
-* [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
+* [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles) | 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
+* [git-organizations-folder](https://github.com/danimesq/git-organizations-folder)
 * [PRIVATE] 📔 [QuickEdit phone notes](https://github.com/danimesq/quickedit)
-* [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles)
-* [PRIVATE] 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
+* [ethereumtxs](ethereumtxs)
+* [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
+* [investpad](https://github.com/danimesq/investpad)
 * [PRIVATE] [dossier1](https://github.com/danimesq/dossier1)
 * [PRIVATE] [DossierTicketsTransfers](https://github.com/danimesq/DossierTicketsTransfers)
 * [PRIVATE] [DossierTicketsInternacoes](https://github.com/danimesq/DossierTicketsInternacoes)
 * [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 * 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
 * [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
-* [investpad](https://github.com/danimesq/investpad)
 * [PRIVATE] [PhoneNotifications](https://github.com/danimesq/PhoneNotifications)
 * [PRIVATE] [oldnotes](https://github.com/danimesq/oldnotes)
 * [PRIVATE] [Presentation.pptx](https://github.com/danimesq/Presentation.pptx)
 * [PRIVATE] [Printer-do.pptx](https://github.com/danimesq/Printer-do.pptx)
 * [PRIVATE] [House.pptx](https://github.com/danimesq/House.pptx)
-* [ethereumtxs](ethereumtxs)
+* [MinisterioUnico](https://github.com/danimesq/MinisterioUnico)
+
+Uma proposta de unificação e padronização de todos os Ministérios Públicos estaduais do País.
 
 ##### Personal: Gaming/Metaverse
 
@@ -186,6 +190,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Gameboy_green_icon.svg"/> [My PokeJourneys GB](https://github.com/danimesq/journeys-gb)
 * <img width="16px" src="https://www.kindpng.com/picc/m/33-332756_gameboy-icons-game-boy-advance-icon-png-transparent.png"/> [My PokeJourneys GBA](https://github.com/danimesq/journeys-gba)
 * <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Black_Nintendo_DS_icon.png"/> [My PokeJourneys DS](https://github.com/danimesq/journeys-ds)
+* [PRIVATE] [3DS-SDCard](https://github.com/danimesq/3DS-SDCard)
 * <img width="16px" src="https://www.kindpng.com/picc/m/24-248262_letter-x-logo-pokemon-x-logo-hd-png.png"/> [My PokeJourneys Pokemon X](https://github.com/danimesq/journeys-x)
 * My PokeJourneys Pokemon AquaSapphire
 * My PokeJourneys Pokemon Let's Go Eevee
@@ -328,6 +333,7 @@ NFC password manager
 * [guppy](https://github.com/Floflis/guppy)
 
 Leverage neofetch with neofetch-themes
+* [qjoypad-layouts](https://github.com/Floflis/qjoypad-layouts)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
@@ -354,6 +360,7 @@ Knowledge base for awesome tricks for Bash and other scripting languages
 * [SRC At ETH💎💌] [Future1984](https://github.com/Plasmmer/Future1984)
 
 The intersection between past and future in PCs. Imagine owning the cutting-edge of technology with a Mac in 1984? You can revive these times with the cutting-edge again: black-white e-ink, RISC-V and Rust.
+* [NeTVisionBox](https://github.com/Plasmmer/NeTVisionBox)
 * [Undefined] [Car](https://github.com/Plasmmer/Car)
 * [Shared-Design](https://github.com/Plasmmer/Shared-Design)
 
@@ -497,6 +504,11 @@ Game producer in form of a guild/DAO. Our games don't require programming knowle
 * [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
 
 Prepares and joints your game's controller and screen
+
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](https://github.com/PartidoVelho)
+
+* [meta](https://github.com/PartidoVelho/meta)
+* [PropostasAoGovernoAtual](https://github.com/PartidoVelho/PropostasAoGovernoAtual)
 
 <details>
   <summary>[Spoiler] Should tech Humans be limited to tech? Click here not to expand a text, but your mind.</summary>
