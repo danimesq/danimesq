@@ -12,7 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danimesq&label=Profile%20views&color=0e75b6&style=flat" alt="danimesq's profile views" />
 </p>
 
-Profile views badge thanks to inspiration from [@lauragift21](https://github.com/lauragift21)
+Profile views badge thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
+**PS**: this badge doesn't count from GitHub, which means it doesn't count retroactively but from the time it was implemented.
+As I see, it add a count when the image is viewed/accessed.
 
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
