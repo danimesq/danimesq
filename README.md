@@ -16,6 +16,10 @@ Profile views badge thanks to inspiration from [@lauragift21](https://github.com
 **PS**: this badge doesn't count from GitHub, which means it doesn't count retroactively but from the time it was implemented.
 As I see, it add a count when the image is viewed/accessed.
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danimesq" alt="danimesq's LangStat" />
+
+Streak statistics thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
+
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
