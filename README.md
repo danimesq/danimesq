@@ -7,6 +7,13 @@
 <center><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/> <img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></center>
 
 #### 📈 GitHub Statistics
+
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danimesq&label=Profile%20views&color=0e75b6&style=flat" alt="danimesq's profile views" />
+</p>
+
+Profile views badge thanks to inspiration from [@lauragift21](https://github.com/lauragift21)
+
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
