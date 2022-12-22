@@ -22,4 +22,15 @@ TudoBank:
 
 -------------------------------------------------------------------------
 
+CriptoPix new features:
+- Send any value in cripto (without putting it in the form), get the equivalent in BRL
+- Send any ERC-20 token, get it instantly converted
+-
+TudoBank
+- Slogan: "D bnk com a vd"
+- Download Argent, check if installed
+- Use WalletConnect to get Argent address
+- Support hardware wallets
+- Caixinhas, umas com 100% CDI e outras com criptos q podem ser vendidas em qlqr mmnt
 
+ClientID: receive tickets and similar
