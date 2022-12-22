@@ -3,6 +3,9 @@
 - 16x16 icons for all repos
 - social img for all repos
 
+add repos' description to README.md
+add orgs' description/importance/purpose
+
 repos to add to README.md
 https://github.com/Floflis/Schoolbag
 https://github.com/Floflis/Notestick

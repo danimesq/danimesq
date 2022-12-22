@@ -196,6 +196,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [MinisterioUnico](https://github.com/danimesq/MinisterioUnico)
 
 Uma proposta de unificação e padronização de todos os Ministérios Públicos estaduais do País.
+* [DeFi-Station](https://github.com/danimesq/DeFi-Station)
 
 ##### Personal: Gaming/Metaverse
 
@@ -241,7 +242,7 @@ Uma proposta de unificação e padronização de todos os Ministérios Públicos
 
 * davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's [Future1984](https://github.com/Plasmmer/Future1984) PC should start before becoming a standard)
 
-These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!)
+These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!), etc.
 
 #### 💎🌱 Featured organizations & their projects
 
@@ -347,6 +348,14 @@ NFC password manager
 
 Leverage neofetch with neofetch-themes
 * [qjoypad-layouts](https://github.com/Floflis/qjoypad-layouts)
+* [davidGallery](https://github.com/Floflis/davidGallery)
+* [Calculator](https://github.com/Floflis/davidCalculator)
+* [unistore_publishers](https://github.com/Floflis/unistore_publishers)
+* [unistore-list-constructaddon](https://github.com/Floflis/unistore-list-constructaddon)
+* [unistore_collections](https://github.com/Floflis/unistore_collections)
+* [pathplace](https://github.com/Floflis/pathplace)
+* [ct](https://github.com/Floflis/ct)
+* [bulkextensionmover](https://github.com/Floflis/bulkextensionmover)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
