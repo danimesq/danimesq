@@ -11,3 +11,15 @@ Display store name/photo after an item is purchased
 for fishes, fields for inches and gender/species. For fishes like guppy, include more than 12 tail formats
 
 Load - have 50 items and they are collected and stored in the Load service
+
+-------------------------------------------------------------------------
+
+TudoBank:
+- CriptoPix, ClientID, Emporium
+- Uzzo mdl
+- Caixinhas e tb SuperCaixinhas rend 100% CDI
+- SuperCaixinhas com crpt (BTC, ETH) e DeFi (Alchemix)
+
+-------------------------------------------------------------------------
+
+
