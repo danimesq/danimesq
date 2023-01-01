@@ -16,6 +16,9 @@ Profile views badge thanks to inspiration from [@lauragift21](https://github.com
 **PS**: this badge doesn't count from GitHub, which means it doesn't count retroactively but from the time it was implemented.
 As I see, it add a count when the image is viewed/accessed.
 
+[![GitHub followers](https://img.shields.io/github/followers/danimesq?style=social)](https://github.com/danimesq?tab=followers)
+![GitHub total stars](https://img.shields.io/github/stars/danimesq?style=social)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danimesq" alt="danimesq's LangStat" />
 
 Streak statistics thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
