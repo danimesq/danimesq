@@ -25,33 +25,35 @@ Streak statistics thanks to inspiration from [@lauragift21](https://github.com/l
   [![trophy](https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
-
 <!-- ETHEREUM - captioning: -->
-<!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
-<!-- [1 normal "S" trophy] Organizations - Jack of all Trades - 28pt -->
+<!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 20pt -->
+<!-- [1 normal "S" trophy] Organizations - Jack of all Trades - 30pt -->
 <!-- [3 "S" gold trophies] Issues - God Issuer - 3.5kpt -->
-<!-- [1 gold "S" trophy] Commits - Super Committer - 1.9pt -->
-<!-- [1 gold "S" trophy] PullRequest - Super Puller - 221pt -->
-<!-- [3 blue "A" trophies] Repositories - Ultra Repo Creator - 73pt -->
+<!-- [2 gold "S" trophies] Commits - Deep Committer - 2.4pt -->
+<!-- [1 gold "S" trophy] PullRequest - Super Puller - 229pt -->
+<!-- [3 blue "A" trophies] Repositories - Ultra Repo Creator - 78pt -->
+<!-- [1 blue "A" trophy] Followers - Dynamic User - 38pt -->
+<!-- [1 "C" trophy] Stars - First Star - 5pt -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api?username=danimesq&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
 </p>
 <!-- ETHEREUM - captioning: -->
 <!-- Total Stars Earned: 5 -->
-<!-- Total Commits (2022): 1.9k -->
-<!-- Total PRs: 221 -->
+<!-- Total Commits (2023): 2.4k -->
+<!-- Total PRs: 229 -->
 <!-- Total Issues: 3.5k -->
-<!-- Contributed to (last year): 180 -->
+<!-- Contributed to (last year): 230 -->
 <!-- A++ -->
 <p align="center" style="witdh:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimesq&langs_count=6&layout=compact&theme=dracula" />
 </p>
 <!-- ETHEREUM - captioning: -->
 <!-- Most Used Languages -->
-<!-- 74.54% JavaScript -->
-<!-- 17.44% HTML -->
+<!-- 74.50% JavaScript -->
+<!-- 17.43% HTML -->
 <!-- 6.23% CSS -->
 <!-- 1.79% Shell -->
+<!-- 0.05% LiveScript -->
 
 Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue) and [@Secret-chest](https://github.com/Secret-chest)
 
@@ -64,8 +66,8 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 <!-- Reputation: 123 -->
 <!-- Answers: 8 -->
 <!-- Questions: 23 -->
-<!-- Profile views: 68 -->
-<!-- Badges: 0 gold, 0 silver, 14 bronze -->
+<!-- Profile views: 75 -->
+<!-- Badges: 0 gold, 0 silver, 15 bronze -->
 
 - 🤗 Pronouns: she/her | Woman 🏳️‍⚧️ | Lesbian 🏳️‍🌈
 - 💬 Ask me about democratization of tools and inclusiveness in the tech space ❣
