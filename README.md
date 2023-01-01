@@ -170,7 +170,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 ![Regedit](https://img.shields.io/badge/-Regedit-black?style=flat-square)
 
 ##### Currently learning
-![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=4584b6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
 
 
