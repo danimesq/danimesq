@@ -21,7 +21,7 @@ As I see, it add a count when the image is viewed/accessed.
 Streak statistics thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
 
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 <!-- ETHEREUM - captioning: -->
 <!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
