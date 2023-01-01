@@ -23,7 +23,9 @@ Streak statistics thanks to inspiration from [@lauragift21](https://github.com/l
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh" />
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ETHEREUM - captioning: -->
 <!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
 <!-- [1 normal "S" trophy] Organizations - Jack of all Trades - 28pt -->
