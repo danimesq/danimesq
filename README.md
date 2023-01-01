@@ -21,7 +21,7 @@ As I see, it add a count when the image is viewed/accessed.
 Streak statistics thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
 
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh" />
 </p>
 <!-- ETHEREUM - captioning: -->
 <!-- [1 normal "S" trophy] Multilanguage - Rainbow Lang User - 19pt -->
@@ -50,7 +50,7 @@ Streak statistics thanks to inspiration from [@lauragift21](https://github.com/l
 <!-- 6.23% CSS -->
 <!-- 1.79% Shell -->
 
-Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue)
+Statistics thanks to inspiration from [@federicoiosue](https://github.com/federicoiosue) and [@Secret-chest](https://github.com/Secret-chest)
 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5623661&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
