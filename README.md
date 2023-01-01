@@ -77,6 +77,11 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 - 🔭 I’m currently working on Bash, Javascript at [Floflis](https://github.com/Floflis/) (but the focus is Rust)
 - 🌱 I’m currently learning Python, Solidity (in my opinion EVM should accept languages like Bash and Python not limited to Solidity; that's why I support [Cartesi](https://cartesi.io/))
 - 📫 How to reach me: [mesquitadaniella@proton.me](mailto:mesquitadaniella@proton.me)
+<!--
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
+- ⚡ Fun fact: 
+-->
 
 ----
 
@@ -167,6 +172,14 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 ##### Currently learning
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-031c03?style=flat-square&logo=Node.js)
+
+
+#### Platforms
+![Ubuntu Debian GNU/Linux](https://img.shields.io/badge/Debian_GNU%2fLinux-ffffff?style=flat-square&logo=ubuntu&logoColor=e91e63)
+![Debian GNU/Linux](https://img.shields.io/badge/Debian_GNU%2fLinux-ffffff?style=flat-square&logo=debian&logoColor=e91e63)
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-212121?style=flat-square&logo=linux&logoColor=ffc107)
+
+#### Devices
 
 ----
 
