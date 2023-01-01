@@ -175,7 +175,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 
 #### Platforms
-![Ubuntu Debian GNU/Linux](https://img.shields.io/badge/Ubuntu_Debian_GNU%2fLinux-ffffff?style=flat-square&logo=ubuntu&logoColor=e91e63)
+![Ubuntu Debian GNU/Linux](https://img.shields.io/badge/Ubuntu_Debian_GNU%2fLinux-dd4814?style=flat-square&logo=ubuntu&logoColor=e91e63)
 ![Debian GNU/Linux](https://img.shields.io/badge/Debian_GNU%2fLinux-ffffff?style=flat-square&logo=debian&logoColor=e91e63)
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-212121?style=flat-square&logo=linux&logoColor=ffc107)
 
