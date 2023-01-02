@@ -23,6 +23,10 @@ As I see, it add a count when the image is viewed/accessed.
 
 Streak statistics thanks to inspiration from [@lauragift21](https://github.com/lauragift21).
 
+##### <img width="16px" src="https://www.pngfind.com/pngs/m/50-509785_earth-badge-pokemon-earth-badge-png-transparent-png.png"> Badges
+
+<a href="https://app.poap.xyz/token/278556" target="_blank"><img src="https://assets.poap.xyz/the-graph-7-2021-logo-1621261559833.png"></a>
+
 <p align="center" style="witdh:100%">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=danimesq&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
