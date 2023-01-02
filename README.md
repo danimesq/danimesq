@@ -128,6 +128,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
   - <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](#-filepeace)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](#-gamlr)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](#-partidovelho)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/121689948?s=400&v=4"/> [TheEmojiDAO](#-theemojidao)
 
 These are some of my projects that I turned into organizations.
 
@@ -243,6 +244,10 @@ Uma proposta de unificação e padronização de todos os Ministérios Públicos
 * <img width="16px" src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png"/> [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
 * [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
 
+* [freeShop](https://github.com/danimesq/freeShop)
+
+The most up-to-date version; preserve the commit history of freeShop and most of its forks. Beyond copyright of a LEGACY CONSOLE (btw I respect this so I made this repo archived+private), this is part of the videogame history.
+
 ----
 
 #### My thoughtful questions...
@@ -269,7 +274,7 @@ Uma proposta de unificação e padronização de todos os Ministérios Públicos
 
 * davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's [Future1984](https://github.com/Plasmmer/Future1984) PC should start before becoming a standard)
 
-These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!), etc.
+These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!), [IPFVCS](https://github.com/01VCS/ipfvcs), [HTTB](https://github.com/Plasmmer/HTTB), etc.
 
 #### 💎🌱 Featured organizations & their projects
 
@@ -383,6 +388,17 @@ Leverage neofetch with neofetch-themes
 * [pathplace](https://github.com/Floflis/pathplace)
 * [ct](https://github.com/Floflis/ct)
 * [bulkextensionmover](https://github.com/Floflis/bulkextensionmover)
+* [cinnamon-patch](https://github.com/Floflis/cinnamon-patch)
+* [nfctools-desktop](https://github.com/Floflis/nfctools-desktop)
+
+[WIP] Unofficial repo to compile a portable NFC Tools build to different CPU architectures 
+* [FloflisIcons-to-merge](https://github.com/Floflis/FloflisIcons-to-merge)
+* [witchlink](https://github.com/Floflis/witchlink)
+
+A daemon for a new kind of symlink: witchlinks 🧙‍♀️ These links can joint multiple files into a single file - ideal for deduplication of shared bytes
+* [HTML5Player](https://github.com/Floflis/HTML5Player)
+
+Up-to-date HTML5 viewer. It is a idea from me to parody Shockwave Flash Player and its .SWF files, as a nostalgy of Flash but with the modernity of HTML5.
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
@@ -528,6 +544,10 @@ Git, on steroids. Layer2 for git, ready for the Web 3.0
 * [git-meta](https://github.com/01VCS/git-meta)
 
 Wanna git preserve your file dates? git-meta stores all files' metadata into .gitmeta!
+* [collab](https://github.com/01VCS/collab)
+* [ipfvcs](https://github.com/01VCS/ipfvcs)
+
+[WIP] Test VCS using IPFS for object hashes! Should focus heavily on file deduplication and inspire on the work of the Pijul VCS
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/102428033?s=200&v=4"/> [FilePeace](https://github.com/FilePeace)
 
@@ -558,6 +578,11 @@ Prepares and joints your game's controller and screen
 
 * [meta](https://github.com/PartidoVelho/meta)
 * [PropostasAoGovernoAtual](https://github.com/PartidoVelho/PropostasAoGovernoAtual)
+
+
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/121689948?s=400&v=4"/> [TheEmojiDAO]([https://github.com/PartidoVelho](https://github.com/TheEmojiDAO))
+
+* [Our fork responsible for introducing brand new emojis to systems](https://github.com/TheEmojiDAO/noto-emoji), such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
 
 <details>
   <summary>[Spoiler] Should tech Humans be limited to tech? Click here not to expand a text, but your mind.</summary>
