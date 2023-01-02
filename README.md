@@ -591,20 +591,20 @@ Prepares and joints your game's controller and screen
  
  ---
 
-Anyone who see my apps/scripts/games/designs/projects/etc can't imagine my sensual side.
+> Anyone who see my apps/scripts/games/designs/projects/etc can't imagine my sensual side.
   
 <img width="300px" src="https://ipfs.io/ipfs/QmT6sGJs4ohBo33AJYdTwbcPnCxeFbXGyDGRkYDwQm7Niz/nft.jpg"> <img width="300px" src="https://ipfs.io/ipfs/QmWjvVZjNRsEJq12HAKksZcB9sFNFoPdQLZZN7Qta8QgHr/nft.jpg"> <img width="300px" src="https://ipfs.io/ipfs/QmVhj6Qiej32n7eWgViGEGYPQDA5VdwMbGpzfRKpoBJvEt/nft.jpg">
 
-Anyone who see my sensual side cannot imagine my intelectual side.
+> Anyone who see my sensual side cannot imagine [my intelectual side](https://github.com/Floflis/witchlink).
 
-At me you can see yourself, so get inspired and go on!
-Let's democratize techdev, demistify how people see (and sadly demonizes) the witches and how the image of a woman is obligued to follow a binary between sex/sensuality/servant or intelectually/productively relevant while not permitted to be both sexy and intelectual.
-If we stand agains't the misogyny, we're all witches and that is a good thing!
-A Tiktok twerker may be building something + meaningful than they would.
+> At me you can see yourself, so get inspired and go on!
+> Let's democratize techdev, demistify how people see (and sadly demonizes) the witches and how the image of a woman is obligued to follow a binary between sex/sensuality/servant or intelectually/productively relevant while not permitted to be both sexy and intelectual.
+> If we stand agains't the misogyny, we're all witches and that is a good thing!
+> A Tiktok twerker may be building something + meaningful than they would.
 
-I can't forget when a programmer at Twitter (yes, like those who laugh thinking our Bash scripts are inferior to their C reworks regular Humans can't read/contribute to anymore) at 2020 and at the same month of the BLM manifestations, posted two images: one of black women twerking and other of white astronauts 🤢 I want to prove the world guys like him are wrong
+> I can't forget when a programmer at Twitter (yes, like those who laugh thinking our Bash scripts are inferior to their [C reworks regular Humans can't read/contribute to anymore](https://github.com/LinusDierheimer/fastfetch)) at 2020 and at the same month of the BLM manifestations, posted two images: one of black women twerking and other of white astronauts 🤢 I want to prove the world guys like him are wrong
   
-  Daniella Mesquita at [a Foundation NFT](https://foundation.app/@daniella/danime/4).
+- Daniella Mesquita at [a Foundation NFT](https://foundation.app/@daniella/danime/4).
 
  ---
 </details>
