@@ -274,7 +274,9 @@ The most up-to-date version; preserve the commit history of freeShop and most of
 
 * davidApps: small HTML5 apps implementing features the "native" apps don't (remember how Plasmmer's [Future1984](https://github.com/Plasmmer/Future1984) PC should start before becoming a standard)
 
-These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!), [IPFVCS](https://github.com/01VCS/ipfvcs), [HTTB](https://github.com/Plasmmer/HTTB), etc.
+These apps: [davidLauncher](https://github.com/FloflisScreens/davidLauncher) (hybrid launcher for KaiOS, Android and Firefox OS), [davidWriter](https://github.com/Floflis/davidWriter) (introduce live git snapshot inside any texty file!), [davidExplorer](https://github.com/Floflis/davidExplorer) (hybrid file explorer for Desktop/Mobile), [davidCamera](https://github.com/Floflis/davidCamera) (use software for videos with the same quality of photos!), [davidGallery](https://github.com/floflis/davidGallery), etc.
+
+Other davidStuff: [IPFVCS](https://github.com/01VCS/ipfvcs) (experiment of doing different than git for a brand new VCS - Version Control System), [HTTB](https://github.com/Plasmmer/HTTB) (a training step for beginners who want to make servers/social sites, but with advanced/modern features "natively"-programmed servers don't), etc.
 
 #### 💎🌱 Featured organizations & their projects
 
