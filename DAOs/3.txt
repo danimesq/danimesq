@@ -1,0 +1,91 @@
+"Hopswap"
+XDai: https://gnosis-safe.io/app/gno:0x73D4e9c9d5A3E1C9A8EEe0426AeBDB566a7094C5/balances
+Polygon: https://gnosis-safe.io/app/matic:0x869Bf96A3c336ec10b51A177743Bb645976024E0/balances
+-
+30,970.63 FLOF = XDai > Polygon
+11,735.78 PLA = XDai > Polygon
+
+Gamlr site:
+-
+Link to Phonemon site and demo (Phonemon has been cancelled)
+Link to Runny Car demo
+Link to other games' demos
+-
+-
+List GAME@Polygon token CoinGecko
+
+FLOF total supply 124,000
+FLOF token holders on XDai:
+Plasmmer/PLA = 50%
+others = 50%-
+-
+30,987.5 Plasmmer/PLA (0x4ceac09a63fd5376a48e118a5801a2391d835ec9)
+30,970.63 daniell.eth
+29 FLOF/PLA pool (Honeyswap - 0x9882a28fd4e6f109ad7f5bf6715c66366a80ecc4)
+29.56 FLOF/PLA pool (SUSHIswap - 0x42d5a659dfcfaed77e3335dc7cd70cb13b162fe9)
+16.22 FLOF/UNI (UniOS) pool (Honeyswap - 0x2eE05FD0fb438D61E124FA8764489294C13171D9)
+6.94 FLOF/UNI (UniOS) pool (SUSHIswap - 0xa2b44c33814ff1102f89f18e23c7775ed92454d3)
+2.03 0x261e24907f66fea18594bdd144ad81908fec005a (misterious address)
+--
+FLOF token holders on Polygon:
+Plasmmer/PLA = 50%
+daniell.eth = 50%-
+-
+30,987.5 Plasmmer/PLA (0x8dcf76e78336c97246c4914895061df1349cc79d)
+30,970.59 daniell.eth
+0.02 FLOF/UNI (UniOS) pool (SUSHIswap - 0xa64b2145736f921d93c0ce1475aa9eca63533705)
+0.02 FLOF/UNI (UniOS) pool (Quickswap - 0x1d4245d3ac488ac016ebe257242bd8303fd39093)
+
+PLA total supply 30,000
+PLA token holders on XDai:
+daniell.eth = 11%
+OPI = 10% (bricked with vitalik.eth 0xd8da6bf26964af9d7eed9e03e53415d37aa96045)
+Multisig = 39%- (https://xdai.gnosis-safe.io/app/#/safes/0xE07Cda4924F9732745b44c918ddD6Ef2d10530B5/balances)
+-
+3,227.87 daniell.eth
+3,000 OPI
+11,735.78 Multisig (https://xdai.gnosis-safe.io/app/#/safes/0xE07Cda4924F9732745b44c918ddD6Ef2d10530B5/balances)
+52 GAME/PLA Honeyswap pool (0x123860eCd76F645E461538e4624a9E3C8B050625) ??????????
+21.59 FLOF/PLA Honeyswap pool (Honeyswap - 0x9882a28fd4e6f109ad7f5bf6715c66366a80ecc4)
+21.18 FLOF/PLA Honeyswap pool (SUSHIswap - 0x42d5a659dfcfaed77e3335dc7cd70cb13b162fe9)
+20 0x261e24907f66fea18594bdd144ad81908fec005a (misterious address)
+27.87 UNIOS/PLA Honeyswap pool (Honeyswap - 0x337FE9aB335e9aBC3E75ea59A6eBAb75CA68a0B7)
+100 UNIOS/PLA Honeyswap pool (SUSHIswap - 0x5c317259b325195fb7e10f5d6f0f1827c1cc3b18)
+44.43 DANI/PLA Honeyswap pool (0xC26e775De9D5cba23e712aC659B90828241B6678)
+8 aureamesquita.eth
+2 DANIMESQ/PLA Honeyswap pool (0x2A52Fc9657E495856FbF04dA704dE8f40F6De929)
+3.5 0xdafc6b7747e1556a4e3ea5cecce9d28ad862ad2b (Armaldio)
+some of the other holders are liquidity pools
+--
+PLA token holders on Polygon:
+11735.78 Multisig () (still with daniell.eth - Gnosis Safe is having issues with Polygon)
+
+GAME total supply 60,000
+GAME is the only token that seems have value currently on early stages. 29,950 (held by Plasmmer/PLA) are worth $4,431.13 (need to investigate). So, the whole Gamlr is worth ~$8,862.26 mcap and GAME token price $0.147950918
+GAME token holders on XDai:
+Plasmmer/PLA = 50%
+daniell.eth = 50%-
+-
+14,950 daniell.eth
+15,000 Plasmmer/PLA (0x4ceac09a63fd5376a48e118a5801a2391d835ec9)
+96.16 GAME/PLA Honeyswap pool (0x123860eCd76F645E461538e4624a9E3C8B050625)
+3.84 0x261e24907f66fea18594bdd144ad81908fec005a (misterious address)
+--
+GAME token holders on Polygon:
+Plasmmer/PLA = 50%
+daniell.eth = 50%-
+-
+14,950 daniell.eth
+15,000 Plasmmer/PLA (0x8dcf76e78336c97246c4914895061df1349cc79d)
+
+https://client.aragon.org/#/xshowdown/
+XPS is at Polygon only
+XPOKE/XPS total supply 3,000,000
+XPOKE token holders:
+Multisig = 98% (https://polygon.gnosis-safe.io/app/#/safes/0x3fc60b62aFE720D3C418096ECF1A13CD604D4bba/settings/owners)
+HotWallet "Multi"sig = 2% (https://polygon.gnosis-safe.io/app/#/safes/0x1c19c5D18c4B0C9966Ab8b71AdC793BdcBFa9449/settings/owners)
+-
+1,474,750 Multisig (https://polygon.gnosis-safe.io/app/#/safes/0x3fc60b62aFE720D3C418096ECF1A13CD604D4bba/settings/owners)
+25,000 HotWallet "Multi"sig (https://polygon.gnosis-safe.io/app/#/safes/0x1c19c5D18c4B0C9966Ab8b71AdC793BdcBFa9449/settings/owners)
+500 0xeb7d0aeedcd4fe4e452275775d558023da1d12cf (nftgaming enthusiast)
+soon: Uniswap and Sushiswap pools
