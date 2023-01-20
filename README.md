@@ -228,6 +228,9 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [MinisterioUnico](https://github.com/danimesq/MinisterioUnico)
 
 Uma proposta de unificação e padronização de todos os Ministérios Públicos estaduais do País.
+* [DefensoriaUnica](https://github.com/danimesq/DefensoriaUnica)
+
+Uma proposta de unificação e padronização de todos as Defensorias Públicas estaduais do País.
 * [DeFi-Station](https://github.com/danimesq/DeFi-Station)
 
 ##### Personal: Gaming/Metaverse
@@ -406,6 +409,9 @@ A daemon for a new kind of symlink: witchlinks 🧙‍♀️ These links can joi
 
 Up-to-date HTML5 viewer. It is a idea from me to parody Shockwave Flash Player and its .SWF files, as a nostalgy of Flash but with the modernity of HTML5.
 
+* [FirstLogonTour](https://github.com/Floflis/FirstLogonTour)
+* [watermarkmaker](https://github.com/Floflis/watermarkmaker)
+
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
 Decentralized, open-source software/hardware manufacturer based on a DAO and Ethereum's tokenized economy (includes NFTs).
@@ -571,6 +577,7 @@ Safely move recordings (and other files) by hashing using IPFS' CID v1
 * [rc-sh-tst](https://github.com/FilePeace/rc-sh-tst)
 
 Get the timestamp of a recording's moment, cut audio in a specific moment and other tools
+* [verifact-hash](https://github.com/FilePeace/verifact-hash)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/80379307?s=200&v=4"/> [Gamlr](https://github.com/Gamlr)
 
