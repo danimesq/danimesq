@@ -94,6 +94,8 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 
 ----
 
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ### Table of Contents
 
 - [Languages](#languages)
