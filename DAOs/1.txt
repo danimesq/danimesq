@@ -17,8 +17,6 @@ https://client.aragon.org/#/netvision/
 https://client.aragon.org/#/channelone/
 https://ipfs.io/ipns/client.aragon.org/#/tamigucho/
 
-Firedoge (governed by 50% FIREDOG 50% PleasrDAO's DOG)
-
 FLOF 0xea2746be6cf47f376e9b9d6b78a47707559c3a8e
 PLA 0x1b07d1ae73fa0601e15ac6bd71807469d9d650c6
 GAME 0xa9d47498125dff1647957cf211ea9a010cc0953e
@@ -31,6 +29,8 @@ SYMBOL 0xf4042e88b7dfaad797921220316f95a4efeb33cc (membership)
 EMOJI 0xf418947fc0e5da1e55c1d78815fdc4ae60605ecd
 XPS 0xd472ac32adf0739312694ef404b786559dc9c3f1
 
+Firedoge (governed by 50% $WEB3 50% PleasrDAO's $DOG - which will form the $FIREDOG token) https://github.com/PeterMPhillips/aragon-token-wrapper
+-
 - deposit EMOJI to Floflis DAO, copy vault address, withdraw, add Unisymbol membership to Agent address
 - Quickswap/Sushi pools for WEB3/DOG, add these pools to Balancer to form the FIREDOG token!
 - take liquidity and burn previous version of these tokens
@@ -54,7 +54,6 @@ https://quickswap.exchange/#/analytics/v2/pair/0xfa8F932fCCd02F274Cb1546478f68bd
 https://polygonscan.com/address/0x9013396f0168433b9cb6cb6ca026a555575657f0
 https://app.sushi.com/analytics/pools/0x3398787dca0f1bd830713ec5294ade196a198984?chainId=137
 https://app.balancer.fi/#/polygon/pool/0xc3d618febf016fe867393417bf42ed03f5e95ac30002000000000000000009f7
-https://github.com/PeterMPhillips/aragon-token-wrapper
 
 https://ipfs.io/ipns/client.aragon.org/#/netvision/
 https://ipfs.io/ipns/client.aragon.org/#/channelone/0xba739d2e5be0877a2a09c7dd44e36ba6fb9c1adc/

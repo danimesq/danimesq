@@ -1,0 +1,21 @@
+FLOF total supply 124,000
+FLOF token holders on XDai:
+Plasmmer/PLA = 50%
+others = 50%-
+-
+30,987.5 Plasmmer/PLA (0x4ceac09a63fd5376a48e118a5801a2391d835ec9)
+30,970.63 daniell.eth
+29 FLOF/PLA pool (Honeyswap - 0x9882a28fd4e6f109ad7f5bf6715c66366a80ecc4)
+29.56 FLOF/PLA pool (SUSHIswap - 0x42d5a659dfcfaed77e3335dc7cd70cb13b162fe9)
+16.22 FLOF/UNI (UniOS) pool (Honeyswap - 0x2eE05FD0fb438D61E124FA8764489294C13171D9)
+6.94 FLOF/UNI (UniOS) pool (SUSHIswap - 0xa2b44c33814ff1102f89f18e23c7775ed92454d3)
+2.03 0x261e24907f66fea18594bdd144ad81908fec005a (misterious address)
+--
+FLOF token holders on Polygon:
+Plasmmer/PLA = 50%
+daniell.eth = 50%-
+-
+30,987.5 Plasmmer/PLA (0x8dcf76e78336c97246c4914895061df1349cc79d)
+30,970.59 daniell.eth
+0.02 FLOF/UNI (UniOS) pool (SUSHIswap - 0xa64b2145736f921d93c0ce1475aa9eca63533705)
+0.02 FLOF/UNI (UniOS) pool (Quickswap - 0x1d4245d3ac488ac016ebe257242bd8303fd39093)

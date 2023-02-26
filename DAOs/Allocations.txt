@@ -1,0 +1,40 @@
+"Hopswap"
+XDai: https://gnosis-safe.io/app/gno:0x73D4e9c9d5A3E1C9A8EEe0426AeBDB566a7094C5/balances
+Polygon: https://gnosis-safe.io/app/matic:0x869Bf96A3c336ec10b51A177743Bb645976024E0/balances
+-
+30,970.63 FLOF = XDai > Polygon
+11,735.78 PLA = XDai > Polygon
+(these should be counted out of circulating supply)
+
+8 m https://blockscout.com/poa/xdai/tx/0x68d51eea99df696da9a8f380765d906355a35e7db4bedb96dc43e282aa1252aa
+2 YGG/thomas https://blockscout.com/poa/xdai/tx/0x2a2b44c7c521ddfe9112af6dc0b9d8fba671275b73c34de59eeb9571c479a35f
+3.5 Amld https://blockscout.com/poa/xdai/tx/0x654c60e6323471f6171240016276dbbd9705006892590f6300c673f8af2acab6
+3000 OPI https://blockscout.com/poa/xdai/tx/0x24a23189536521f27206a596562a9386baaf78dc003be3145db35030faee490e
+6 PLA-DANI honeyswap pool https://blockscout.com/poa/xdai/tx/0x6e79e3fd37378d14d1860d020a3367db02c0dc32867d09374b28ea92404f6b39/token-transfers
+50 PLA-GAME honeyswap pool https://blockscout.com/poa/xdai/tx/0xff38b8638d4f69b4083612dde2e263768b8effa5bbe3efae41433a3591b7e0fb/ https://blockscout.com/poa/xdai/tx/0xa0288d3c3828fb1705766ca60cac34e55cb22c68c8ed8dc8c9ae6bb35b30754f/ https://blockscout.com/poa/xdai/tx/0x5fb445b01537c073c9acf5dd2aaec491b978487fc94a2bcb78ed3fdd61c31b85/
+12.5 PLA-FLOF honeyswap pool https://blockscout.com/poa/xdai/tx/0xf6947fa483e7d0eadb1a94d9cb4ed568254f64298a68d2854189f9d4d4933ce9
+100 PLA-FLOF-UNI honeyswap pool https://blockscout.com/poa/xdai/tx/0x83f9d0164c0e3a4a23ac3c5ae04c9ace8d30b72ba7e3983f86c44a07a07afa20
+
+3300 self
+first mint: https://blockscout.com/poa/xdai/tx/0x0202a022634890d95ec7de45416f37d9bb9ee46d0a910df43f27820851b22f1b
+2nd mint: https://blockscout.com/poa/xdai/tx/0x13b0e07a167267a01ce5f40b8d58ad2876165a1e6ef2fb18b9e5a44d0eb1af54
+Gnosis Safe: https://blockscout.com/poa/xdai/tx/0xeb0d444b07bb1855d176ad7fdf58266be5bd53498d83761855fd3187fde35dad
+
+https://aragon.1hive.org/#/opi/
+
+https://aragon.1hive.org/#/plasmmer/
+0x32F13A6585D38e14D4F70c481e58A23767964a07
+https://xdai.aragonchina.xyz/#/gamlr/
+0x4a1901b120e777a2c3d0A19ef41B264cdBCdEe69
+https://xdai.aragonchina.xyz/#/xpoke/
+0xe7481fdaE723f19F7d6f3DbB04C90af725114f0b
+https://xdai.aragonchina.xyz/#/opi/
+https://aragon.1hive.org/#/floflis/
+0x4a59AD9993d763B6125A52dAc5A44f4aE570E793
+
+DANIMESQ 0x95d7C55C260c18d0E7705236773C0b7942e1a0bF
+DANI 0xC27d3fe316804d948F6294A7e8464f79429669D3
+
+100 GAME-PLA for honeyswap pool
+100 FLOF-PLA for honeyswap pool
+0.02106512 FLOF-UNI for honeyswap pool https://blockscout.com/poa/xdai/tx/0x993a56b1ae63834ef12ca6bde07fc2d0c09376a12faf7eec91df5bcbabf16820/token-transfers

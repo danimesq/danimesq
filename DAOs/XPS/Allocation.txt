@@ -1,0 +1,10 @@
+XPS is at Polygon only
+XPOKE/XPS total supply 3,000,000
+XPOKE token holders:
+Multisig = 98% (https://polygon.gnosis-safe.io/app/#/safes/0x3fc60b62aFE720D3C418096ECF1A13CD604D4bba/settings/owners)
+HotWallet "Multi"sig = 2% (https://polygon.gnosis-safe.io/app/#/safes/0x1c19c5D18c4B0C9966Ab8b71AdC793BdcBFa9449/settings/owners)
+-
+1,474,750 Multisig (https://polygon.gnosis-safe.io/app/#/safes/0x3fc60b62aFE720D3C418096ECF1A13CD604D4bba/settings/owners)
+25,000 HotWallet "Multi"sig (https://polygon.gnosis-safe.io/app/#/safes/0x1c19c5D18c4B0C9966Ab8b71AdC793BdcBFa9449/settings/owners)
+500 0xeb7d0aeedcd4fe4e452275775d558023da1d12cf (nftgaming enthusiast)
+soon: Uniswap and Sushiswap pools
