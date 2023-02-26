@@ -1,0 +1,33 @@
+community building, gh &meta brainstorming
+
+look at https://debank.com/profile/0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91 to insp about my pools
+
+Discord:
+insp on Factor/Alchemix and others for Discord organization/channels
+align server bots. also add for youtube/twitter/socials content, github prs/commits, live price ticker
+emojis and stickers
+
+opportunities for DAOs in NFT/token-gated unlockable content:
+https://decrypt.co/122040/spotify-taps-overlord-join-token-gated-playlist-pilot-creepz-nft-holders
+tell.ie and its token-gated pages
+guild.gg
+https://www.one37pm.com/nft/what-is-token-gating
+https://www.alchemy.com/overviews/nft-token-gating
+https://boardroom.tv/token-gating-definition/
+https://www.shopify.com/retail/token-gating
+https://www.socialmediaexaminer.com/community-development-with-token-gating/
+https://harpersbazaar.uol.com.br/moda/como-o-mercado-da-moda-esta-adotando-o-token-gating/
+https://www.shopthru.xyz/
+https://tokenizedhq.com/token-gating/
+https://sentr3.com/
+
+INSP on https://tamigucho.github.io/ for social network coverage. Build a deck to automate posts, stories and announcements across different socials.
+
+Gamlr site:
+-
+Link to Phonemon site and demo (Phonemon has been cancelled)
+Link to Runny Car demo
+Link to other games' demos
+-
+-
+List GAME@Polygon token CoinGecko
