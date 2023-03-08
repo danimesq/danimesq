@@ -7,7 +7,7 @@ Pending issues:
 - abt money for a car (need to recover $90,000 position)
 - Not a minimum 200m² housing w/ garagem (need to recover $100,000 position for rent)
 - sofa at house
-- Not a minimum 340m² housing w/ garagem (need to recover $200,000 position for rent, $500,000 position for buying done or $400,000 position for buying plot)
+- Not a minimum 340m² housing w/ garagem (need to get R$500,000 position for buying done or $400,000 position for buying plot)
 - No own housing
 - home Internet
 - feminization proceding: laser at eyebrs (need to recover $50,000 position)
@@ -19,4 +19,5 @@ Pending issues:
 - testing/tinkering stuff to buy: DS4 gamepad (need to recover $50,000 position)
 - testing/tinkering stuff to buy: RISC-V board + e-ink monitor + full PC build (need to recover $200,000 position)
 - academia
-- no time to freely play pokemon red/crystal/ruby
+- need toalhas in points according to level
+- no time to freely play pokemon red/crystal/ruby/sw/sv
