@@ -1,0 +1,3 @@
+Inputs:
+- CH episodes
+- Porta/Paraf
