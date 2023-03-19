@@ -21,3 +21,5 @@ some of the other holders are liquidity pools
 --
 PLA token holders on Polygon:
 11735.78 Multisig () (still with daniell.eth - Gnosis Safe is having issues with Polygon)
+
+Max supply should be 100m, with 50m locked to be paired with a hypothetical IPO launch

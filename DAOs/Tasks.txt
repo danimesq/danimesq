@@ -1,4 +1,4 @@
-update allocations to reflect new supply and other changes
+update allocations to reflect new supply and other changes. also update max supply accounting for all networks to deploy including Ethereum
 
 community building, gh &meta brainstorming
 
