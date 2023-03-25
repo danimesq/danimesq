@@ -1,4 +1,6 @@
-update allocations to reflect new supply and other changes. also update max supply accounting for all networks to deploy including Ethereum
+Consider manually creating the tokens (with burn mechanism and gas optimizations like in ANTv2) of the DAOs, vanity deploying crosschain with same addresses (eg. 0xfl0f in all) and moving from Aragon v1 to v2 importing these tokens
+
+update allocations to reflect new supply and other changes. also update max supply accounting for all networks to deploy including Ethereum. for Plasmmer, mint 50mi and keep other 50mi that may be used for an IPO
 
 community building, gh &meta brainstorming
 
