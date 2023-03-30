@@ -217,9 +217,19 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
 * [investpad](https://github.com/danimesq/investpad)
 * [PRIVATE] [dossier0](https://gitabc.xyz/#/danimesq/dossier0)
+
+<details>
+  <summary>[Spoiler] Others about dossier</summary>
+ 
+ ---
+
+* [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
 * [PRIVATE] [DossierTicketsTransfers](https://github.com/danimesq/DossierTicketsTransfers)
 * [PRIVATE] [DossierTicketsInternacoes](https://github.com/danimesq/DossierTicketsInternacoes)
-* [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
+
+ ---
+</details>
+
 * 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
 * [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
 * [PRIVATE] [PhoneNotifications](https://github.com/danimesq/PhoneNotifications)
@@ -233,7 +243,17 @@ Uma proposta de unificação e padronização de todos os Ministérios Públicos
 * [DefensoriaUnica](https://github.com/danimesq/DefensoriaUnica)
 
 Uma proposta de unificação e padronização de todos as Defensorias Públicas estaduais do País.
+<details>
+  <summary>[Spoiler] Stations</summary>
+ 
+ ---
+
 * [DeFi-Station](https://github.com/danimesq/DeFi-Station)
+* [DeFi-Station](https://github.com/danimesq/Health-Station)
+* [AIDaniella](https://github.com/danimesq/AIDaniella)
+
+ ---
+</details>
 
 ##### Personal: Gaming/Metaverse
 
