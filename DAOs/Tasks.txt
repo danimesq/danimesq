@@ -31,6 +31,8 @@ insp from pooltogether governance
 https://www.tally.xyz/
 https://vote.pooltogether.com/proposals?view=active
 
+notion.site
+
 opportunities for DAOs in NFT/token-gated unlockable content:
 https://decrypt.co/122040/spotify-taps-overlord-join-token-gated-playlist-pilot-creepz-nft-holders
 tell.ie and its token-gated pages
