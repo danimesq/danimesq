@@ -33,6 +33,8 @@ https://vote.pooltogether.com/proposals?view=active
 
 notion.site
 
+Plasmmer DAO and all its subdaos: require waiver signing on significative contributions
+
 opportunities for DAOs in NFT/token-gated unlockable content:
 https://decrypt.co/122040/spotify-taps-overlord-join-token-gated-playlist-pilot-creepz-nft-holders
 tell.ie and its token-gated pages
