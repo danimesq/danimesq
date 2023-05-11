@@ -13,6 +13,10 @@ dist tokens to Gitcoin donors via snapshot: Floflis
 https://medium.com/uma-project/announcing-osnap-gasless-snapshot-voting-with-on-chain-execution-by-uma-7374ed729b28
 https://www.gnosisguild.org/?s=35
 
+CoordinationsPlural DAO
+
+danimesq/DAOs management: social media workers and password/permissions management
+
 DAOs contracts audits:
 https://blog.openzeppelin.com/?s=+zkSync+Era
 https://code4rena.com/
