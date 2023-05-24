@@ -17,6 +17,8 @@ CoordinationsPlural DAO
 
 danimesq/DAOs management: social media workers and password/permissions management
 
+The Tamigucho DAO will be owned by: 33,333333333% Plasmmer, 33,333333333% Gamlr, 33,333333333% its community
+
 DAOs contracts audits:
 https://blog.openzeppelin.com/?s=+zkSync+Era
 https://code4rena.com/
