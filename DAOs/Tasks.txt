@@ -19,6 +19,10 @@ danimesq/DAOs management: social media workers and password/permissions manageme
 
 The Tamigucho DAO will be owned by: 33,333333333% Plasmmer, 33,333333333% Gamlr, 33,333333333% its community
 
+https://client.aragon.org/#/Coordinations/ Coordinations' Agent is owner of the Eternal Journalism v2 proxy contract
+https://client.aragon.org/#/coordsupremecourt/0xd20da9e7825bd4cdac42b6b3380d9b082ecd4556/
+https://client.aragon.org/#/partidovelho/
+
 DAOs contracts audits:
 https://blog.openzeppelin.com/?s=+zkSync+Era
 https://code4rena.com/
