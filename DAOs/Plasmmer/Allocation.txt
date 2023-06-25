@@ -23,3 +23,25 @@ PLA token holders on Polygon:
 11735.78 Multisig () (still with daniell.eth - Gnosis Safe is having issues with Polygon)
 
 Max supply should be 100m, with 50m locked to be paired with a hypothetical IPO launch
+
+Plasmmer Main SupplyFund: 100m
+Plasmmer Centralized SupplyFund: 100m (20% to Coordinations)
+Total max supply: 200m
+
+Plasmmer 200m max supply:
+100m unminted
+100m minted/circulating
+-
+11% to DaniMesq
+26% Plasmmer DAO Treasury
+6% Early brainstorming contributors (github/Plasmmer/meta)
+-
+12% early bootstrap
+34% Camelot DEX Crowdsale (46% market-feed)
+-
+4% to GLUE POL3 airdrop
+3% GLUE DAO Treasury
+2% reserved Plasmium Pioneers Airdrop
+(pair 9% of FLOF)
+-
+PLA v2 will implement consistent multichain address, transfer token burns and gas optimizations
