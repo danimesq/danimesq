@@ -210,20 +210,24 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 
 #### My personal repos
 * [PRIVATE] 💉 [Vaccines](https://github.com/danimesq/Personal-Vaccines)
-* [PRIVATE] 🖥 [my Desktop files](https://github.com/danimesq/DesktopFiles) | 🖥🪟 [my Windows Desktop files](https://github.com/danimesq/DesktopFilesWindows)
-* [git-organizations-folder](https://github.com/danimesq/git-organizations-folder)
-* [PRIVATE] 📔 [QuickEdit phone notes](https://github.com/danimesq/quickedit)
-* [ethereumtxs](ethereumtxs)
+* [PRIVATE] 🖥 [my Desktop files](https://gitabc.xyz/#/danimesq/DesktopFiles) | 🖥🪟 [my Windows Desktop files](https://gitabc.xyz/#/danimesq/DesktopFilesWindows)
+* [git-organizations-folder](https://gitabc.xyz/#/danimesq/git-organizations-folder)
+* [PRIVATE] 📔 [QuickEdit phone notes](https://gitabc.xyz/#/danimesq/quickedit)
+* [ethereumtxs](https://github.com/danimesq/ethereumtxs)
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
 * [investpad](https://github.com/danimesq/investpad)
-* [PRIVATE] [dossier0](https://gitabc.xyz/#/danimesq/dossier0)
+* [PRIVATE] [dossier](https://gitabc.xyz/#/danimesq/dossier)
 
 <details>
   <summary>[Spoiler] Others about dossier</summary>
  
  ---
 
-* [PRIVATE] 📒 [DossierLog](https://github.com/danimesq/DossierLog)
+* [PRIVATE] [dossier0](https://gitabc.xyz/#/danimesq/dossier0)
+* [PRIVATE] [dossier1](https://gitabc.xyz/#/danimesq/dossier1)
+* [PRIVATE] [dossier2](https://gitabc.xyz/#/danimesq/dossier2)
+* [PRIVATE] [dossier3](https://gitabc.xyz/#/danimesq/dossier3)
+* [PRIVATE] 📒 [DossierLog](https://gitabc.xyz/#/danimesq/DossierLog)
 * [PRIVATE] [DossierTicketsTransfers](https://github.com/danimesq/DossierTicketsTransfers)
 * [PRIVATE] [DossierTicketsInternacoes](https://github.com/danimesq/DossierTicketsInternacoes)
 
@@ -231,7 +235,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 </details>
 
 * 🐠 [aquarium-site](https://github.com/danimesq/aquarium-site)
-* [PRIVATE] 🎵 [HinosFav](https://github.com/danimesq/HinosFav)
+* [PRIVATE] 🎵 [HinosFav](https://gitabc.xyz/#/danimesq/HinosFav)
 * [PRIVATE] [PhoneNotifications](https://github.com/danimesq/PhoneNotifications)
 * [PRIVATE] [oldnotes](https://github.com/danimesq/oldnotes)
 * [PRIVATE] [Presentation.pptx](https://github.com/danimesq/Presentation.pptx)
@@ -248,8 +252,8 @@ Uma proposta de unificação e padronização de todos as Defensorias Públicas 
  
  ---
 
-* [DeFi-Station](https://github.com/danimesq/DeFi-Station)
-* [DeFi-Station](https://github.com/danimesq/Health-Station)
+* [DeFi Station](https://gitabc.xyz/#/danimesq/DeFi-Station)
+* [Health Station](https://gitabc.xyz/#/danimesq/Health-Station)
 * [AIDaniella](https://github.com/danimesq/AIDaniella)
 
  ---
@@ -287,7 +291,7 @@ The most up-to-date version; preserve the commit history of freeShop and most of
 * Ethereum came to question Bitcoin's limitations. But, currently, there are no layer1 projects LEGITIMATELY questioning Ethereum other than BrightID's IDChain. Cardano? Solana? All other "ethereum-killer"s? They are to Ethereum just what BitcoinCash/Litecoin are to Bitcoin.
 * The line between a programmer and a "scripter" should be blurred, merged. More than that, I believe Bash/Shell/visual-event-sheet "scripters" (programmers) are way more glorious due to their frugal style/abilities (this "their" is "our" because I'm part of them, us; but for the sake of my mind wellbeing I want not to forget being humble).
 * Programming should be known for the visual event-sheets, not bytes/hex/{}/();/notepad brainf&%c
-* Linux distros should be developed not with a eyeglass, an idea to fix other distros, coffee and some abilities; they should be developed with love. That's why they should be built 100% in Bash/Shell+JS/HTML/CSS (lets democratize visual event-sheets) and that's why "The year of the Linux in Desktop" did never came.
+* Linux distros should be developed not with an eyeglass, an idea to fix other distros, coffee and some abilities; they should be developed with love. That's why they should be built 100% in Bash/Shell+JS/HTML/CSS (lets democratize visual event-sheets) and that's why "The year of the Linux in Desktop" did never come.
 * Why aren't our screenshot files split in parts, containing HTML/CSS/SVG replacing lots of pixels? This could be also merged/intersected with my idea of file de-duplication.
 * Why having a whole new separated video coded to react/duet/reply to another video, when videos could simply be containers building on the top of other? You could deduplicate (and save) a lot of (mega)bytes by just linking a video on the video that wants to insert it. Also, mentioning the previous item: why lots of pixels to have texts/figures on your videos when they could simply be in HTML/CSS/SVG (even the transitions, in CSS)?
 * Git does deduplicate texty files such as HTML/CSV/XML/etc. Shouldn't it also deduplicate the audio's wave forms, images and the same as video frames+audio? Git was primarily made for developers (which mostly uses texty files, obviously), but what about LFS and the app/game's assets? Also, git have the potential for uses beyond the dev space. These advanced deduplicing capabilities shouldn't necessarily be added to git, but to a layer2 for it (or in competitors such as Pijul or a layer2 for both git and/or these competitors/alternatives)
