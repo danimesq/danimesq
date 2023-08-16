@@ -645,12 +645,26 @@ Prepares and joints your game's controller and screen
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](https://github.com/PartidoVelho)
 
 * [meta](https://gitabc.xyz/#/PartidoVelho/meta)
+* [metaPrivate](https://gitabc.xyz/#/PartidoVelho/metaPrivate)
+* [Site](https://gitabc.xyz/#/PartidoVelho/PartidoVelho.github.io)
+* [Presentation.pptx](https://gitabc.xyz/#/PartidoVelho/Presentation.pptx)
 * [PropostasAoGovernoAtual](https://gitabc.xyz/#/PartidoVelho/PropostasAoGovernoAtual)
+* [PlanoDeGovernancaDaniella](https://gitabc.xyz/#/PartidoVelho/PlanoDeGovernancaDaniella)
+* [terapiajustica.com.br](https://gitabc.xyz/#/PartidoVelho/terapiajustica.com.br)
+* [estadolaicomas.com.br](https://gitabc.xyz/#/PartidoVelho/estadolaicomas.com.br)
+* [quedemocracia.com.br](https://gitabc.xyz/#/PartidoVelho/quedemocracia.com.br)
+* [reparacaohistorica.com.br](https://gitabc.xyz/#/PartidoVelho/reparacaohistorica.com.br)
+* [bigtechbigbeast.com](https://gitabc.xyz/#/PartidoVelho/bigtechbigbeast.com)
+* [democraciasegura.com.br](https://gitabc.xyz/#/PartidoVelho/democraciasegura.com.br)
+* [desnormalize.com.br](https://gitabc.xyz/#/PartidoVelho/desnormalize.com.br)
+* [dequemcompro.com.br-source](https://gitabc.xyz/#/PartidoVelho/dequemcompro.com.br-source)
+* [dequemcompro.com.br](https://gitabc.xyz/#/PartidoVelho/dequemcompro.com.br)
+* [quemvoto.com.br](https://gitabc.xyz/#/PartidoVelho/quemvoto.com.br)
+* [naosejabozo.com.br](https://gitabc.xyz/#/PartidoVelho/naosejabozo.com.br)
 
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/121689948?s=400&v=4"/> [TheEmojiDAO](https://github.com/TheEmojiDAO)
 
-##### <img width="16px" src="https://avatars.githubusercontent.com/u/121689948?s=400&v=4"/> [TheEmojiDAO]([https://github.com/PartidoVelho](https://github.com/TheEmojiDAO))
-
-* [Our fork responsible for introducing brand new emojis to systems](https://github.com/TheEmojiDAO/noto-emoji), such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
+* [Our fork responsible for introducing brand new emojis to systems](https://gitabc.xyz/#/TheEmojiDAO/noto-emoji), such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
 
 <details>
   <summary>[Spoiler] Should tech Humans be limited to tech? Click here not to expand a text, but your mind.</summary>
