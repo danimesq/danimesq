@@ -317,6 +317,15 @@ Other davidStuff: [IPFVCS](https://github.com/01VCS/ipfvcs) (experiment of doing
 
 Beyond the Web3, Floflis is leading operating systems at what an modern OS should look like. You can contribute with visual event-sheets and Bash.
 
+* [meta](https://gitabc.xyz/#/Floflis/meta)
+* [Floflis-DNA](https://gitabc.xyz/#/Floflis/Floflis-DNA)
+* [Floflis-Core](https://gitabc.xyz/#/Floflis/Floflis-Core)
+* [Floflis-Soil](https://gitabc.xyz/#/Floflis/Floflis-Soil)
+* [Floflis-Grass](https://gitabc.xyz/#/Floflis/Floflis-Grass)
+
+* [Floflis19Project](https://gitabc.xyz/#/Floflis/Floflis19Project)
+* [Floflis20Project](https://gitabc.xyz/#/Floflis/Floflis20Project)
+
 * [Personal-Issues](https://github.com/Floflis/Personal-Issues)
 
 [WIP] Manage personal issues & development as if your life were a git project
@@ -326,22 +335,26 @@ A window manager written in Javascript, HTML5 and CSS3. This fork, Adventus, imp
 * [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron)
 
 Preview Construct 2 apps/games in a Electron prebuilt exe - as if Electron were a normal browser!
-* [floapps](https://github.com/Floflis/floapps)
+* [floapps](https://gitabc.xyz/#/Floflis/floapps)
 
 Have AppImage? Now are you missing support for .apps, .game and .html5 files?
 * [batsh-shell](https://github.com/Floflis/batsh-shell)
 
 [WIP] Experimental shell written in shell (metalanguage) to parse the batsh language
-* [SRC At ETH💎💌] [Floflis-Central](https://github.com/Floflis/Floflis-Central)
+* [SRC At ETH💎💌] [Floflis-Central](https://gitabc.xyz/#/Floflis/Floflis-Central)
 
 [WIP] More than a settings aggregator; its a dashboard for your web3 profile.
+
+* [SRC At ETH💎💌] [Floflis-Central_HTML](https://gitabc.xyz/#/Floflis/Floflis-Central_HTML)
+* [SRC At ETH💎💌] [Floflis-Central_scripts](https://gitabc.xyz/#/Floflis/Floflis-Central_scripts)
+* [Floflis-Central_exportsfolder](https://gitabc.xyz/#/Floflis/Floflis-Central_exportsfolder)
 * [rmv](https://github.com/Floflis/rmv)
 
 Like the "rm" command, but safer
 * [linux-icon-builder](https://github.com/Floflis/linux-icon-builder)
 
 Enter an source image (min. 512x512) and get it resized into different sizes and added into a folder you can patch as icon theme on Linux.
-* [Floflis-Packager](https://github.com/Floflis/Floflis-Packager)
+* [Floflis-Packager](https://gitabc.xyz/#/Floflis/Floflis-Packager)
 
 [WIP] Make a working and lightweight Electron app for Floflis.
 * [WFS](https://github.com/Floflis/WFS)
@@ -408,7 +421,7 @@ Pick a color from a screen, apply it to another screen/e-ink surface
 
 NFC password manager
 * [nftbg](https://github.com/Floflis/nftbg)
-* [icons](https://github.com/Floflis/icons)
+* [icons](https://gitabc.xyz/#/Floflis/icons)
 * [nu-post-install](https://github.com/Floflis/nu-post-install)
 * [Eleganse-Floflis](https://github.com/Floflis/Eleganse-Floflis)
 * [guppy](https://github.com/Floflis/guppy)
@@ -437,11 +450,13 @@ Up-to-date HTML5 viewer. It is a idea from me to parody Shockwave Flash Player a
 
 * [FirstLogonTour](https://github.com/Floflis/FirstLogonTour)
 * [watermarkmaker](https://github.com/Floflis/watermarkmaker)
+* [floflis-application-handler](https://gitabc.xyz/#/Floflis/floflis-application-handler)
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/38830931?s=200&v=4"/> [Plasmmer](https://github.com/Plasmmer)
 
 Decentralized, open-source software/hardware manufacturer based on a DAO and Ethereum's tokenized economy (includes NFTs).
 
+* [meta](https://gitabc.xyz/#/Plasmmer/meta)
 * <img width="16px" src="https://github.com/Plasmmer/Web3Updater/raw/main/logotype.svg"/> [Web3Updater](https://github.com/Plasmmer/Web3Updater)
 
  The web 3.0 (that came from Ethereum, IPFS and TheGraph) is replacing the web 2.0, and Web3Updater will put it also on OS/app updates! As Web3Updater can be used in any product to manage updates (such as Electron apps), it also uses itself to update itself (meta-language).
