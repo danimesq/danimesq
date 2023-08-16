@@ -127,7 +127,7 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
   - <img width="16px" src="https://avatars.githubusercontent.com/u/50565258?s=200&v=4"/> [HTML5Apps Platform](#-html5apps-platform)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/89318607?s=200&v=4"/> [Floflis Screens](#-floflis-screens)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/26726098?s=200&v=4"/> [USV Format](#-usv-format)
-  - <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Orgut/Peeper](#-orgutpeeper)
+  - <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Peepz/Peeper](#-peepzpeeper)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/38709808?s=200&v=4"/> [Communicator](#-communicator)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/44071742?s=200&v=4"/> [NeTVision](#-netvision)
   - <img width="16px" src="https://avatars.githubusercontent.com/u/58575200?s=200&v=4"/> [01 VCS](#-01-vcs)
@@ -207,6 +207,21 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 - <img width="16px" src="https://avatars.githubusercontent.com/u/33704763?s=200&v=4"/> [UltraCreator](https://github.com/UltraCreator)
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80379087?s=200&v=4"/> [Tamigucho](https://github.com/Tamigucho)
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80556987?s=200&v=4"/> [XPoke](https://github.com/XPokeProject)
+
+<!--
+Tamigucho mirrored:
+https://gitabc.xyz/#/Tamigucho/meta
+https://gitabc.xyz/#/Tamigucho/metaPrivate
+https://gitabc.xyz/#/Tamigucho/metaPrivateOld
+https://gitabc.xyz/#/Tamigucho/anime-family
+https://gitabc.xyz/#/Tamigucho/creatures
+https://gitabc.xyz/#/Tamigucho/tamigucho.github.io
+https://gitabc.xyz/#/tamigucho/care
+-
+Phonemon mirrored:
+https://gitabc.xyz/#/phonemons/phonemons.github.io
+https://gitabc.xyz/#/phonemons/phonemon
+-->
 
 #### My personal repos
 * [PRIVATE] 💉 [danimesqPrivate](https://gitabc.xyz/#/DaniMesq/danimesqPrivate)
@@ -583,9 +598,9 @@ Hybrid launcher that adapts itself to KaiOS/Firefox OS. Show the adaptive power 
 
 Format created to support the videos of future.
 
-##### <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Orgut/Peeper](https://github.com/PeeperSocial)
+##### <img width="16px" src="https://avatars.githubusercontent.com/u/38340120?s=200&v=4"/> [Peepz/Peeper](https://github.com/PeepzHQ)
 
-* [Offline-Peeper-poster](https://github.com/PeeperSocial/Offline-Peeper-poster)
+* [Offline-Peeper-poster](https://github.com/PeepzHQ/Offline-Peeper-poster)
 
 No Internet connection? Draft posts for Peeper!
 
@@ -644,6 +659,13 @@ Game producer in form of a guild/DAO. Our games don't require programming knowle
 * [AirConsole-Magicwand](https://github.com/Gamlr/AirConsole-Magicwand)
 
 Prepares and joints your game's controller and screen
+
+<!--mirrored as well (not using same org username)
+https://gitabc.xyz/#/gamlrgames/rumol
+https://gitabc.xyz/#/gamlrgames/zombieants
+https://gitabc.xyz/#/gamlrgames/combats-n-wars
+https://gitabc.xyz/#/gamlrgames/suckie
+-->
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](https://github.com/PartidoVelho)
 
