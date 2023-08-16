@@ -522,7 +522,10 @@ Smaller and faster than JSON and HTML. QML is based on Emmet as HTML is based on
 
 The framework for the Web 3.0. Smart & adaptive: just like an octopus. Web, Electron, KaiOS, Cordova or even Firefox OS? Checked.
 
-* [Framework.js](https://github.com/FrameworkJavascript/Framework.js)
+* [meta](https://gitabc.xyz/#/FrameworkJavascript/meta)
+* [metaPrivate](https://gitabc.xyz/#/FrameworkJavascript/metaPrivate)
+* [Site](https://gitabc.xyz/#/FrameworkJavascript/frameworkjavascript.github.io)
+* [Framework.js](https://gitabc.xyz/#/FrameworkJavascript/Framework.js)
 
 The Framework that the Web 3.0 deserves
 * [FrameworkBlogger](https://github.com/FrameworkJavascript/FrameworkBlogger)
@@ -531,10 +534,10 @@ Yes: FrameworkJS for Blogger (blogspot.com), too!
 * [FMWK-reddit](https://github.com/FrameworkJavascript/FMWK-reddit)
 
 Yes: FrameworkJS for (sub)Reddit(s), too!
-* [Web3Framework](https://github.com/FrameworkJavascript/Web3Framework)
+* [Web3Framework](https://gitabc.xyz/#/FrameworkJavascript/Web3Framework)
 
 Connect your Ethereum wallet and see its ETH balances. FrameworkJS Web3 template using Web3Modal.
-* [ConstructFramework](https://github.com/FrameworkJavascript/ConstructFramework)
+* [ConstructFramework](https://gitabc.xyz/#/FrameworkJavascript/ConstructFramework)
 
 Easily make apps using... ...Construct 2 game engine
 
