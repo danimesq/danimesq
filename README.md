@@ -209,12 +209,17 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 - <img width="16px" src="https://avatars.githubusercontent.com/u/80556987?s=200&v=4"/> [XPoke](https://github.com/XPokeProject)
 
 #### My personal repos
+* [PRIVATE] 💉 [danimesqPrivate](https://gitabc.xyz/#/DaniMesq/danimesqPrivate)
+* [PRIVATE] [PersonalIssues](https://gitabc.xyz/#/DaniMesq/PersonalIssues)
 * [PRIVATE] 💉 [Vaccines](https://github.com/danimesq/Personal-Vaccines)
 * [PRIVATE] 🖥 [my Desktop files](https://gitabc.xyz/#/danimesq/DesktopFiles) | 🖥🪟 [my Windows Desktop files](https://gitabc.xyz/#/danimesq/DesktopFilesWindows)
+* [PRIVATE] [my Desktop files sideB](https://gitabc.xyz/#/DaniMesq/DesktopFilesB)
 * [git-organizations-folder](https://gitabc.xyz/#/danimesq/git-organizations-folder)
+* [PRIVATE] [LinuxEvolution](https://gitabc.xyz/#/DaniMesq/LinuxEvolution)
 * [PRIVATE] 📔 [QuickEdit phone notes](https://gitabc.xyz/#/danimesq/quickedit)
 * [ethereumtxs](https://github.com/danimesq/ethereumtxs)
 * [PRIVATE] 🏦 [OpenBanking](https://github.com/danimesq/Personal-OpenBanking)
+* [PRIVATE] [financerecovery2023](https://gitabc.xyz/#/DaniMesq/financerecovery2023)
 * [investpad](https://github.com/danimesq/investpad)
 * [PRIVATE] [dossier](https://gitabc.xyz/#/danimesq/dossier)
 
@@ -230,6 +235,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] 📒 [DossierLog](https://gitabc.xyz/#/danimesq/DossierLog)
 * [PRIVATE] [DossierTicketsTransfers](https://github.com/danimesq/DossierTicketsTransfers)
 * [PRIVATE] [DossierTicketsInternacoes](https://github.com/danimesq/DossierTicketsInternacoes)
+* [PRIVATE] 📒 [dssqueue](https://gitabc.xyz/#/DaniMesq/dssqueue)
 
  ---
 </details>
@@ -239,7 +245,7 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 * [PRIVATE] [PhoneNotifications](https://github.com/danimesq/PhoneNotifications)
 * [PRIVATE] [oldnotes](https://github.com/danimesq/oldnotes)
 * [PRIVATE] [Presentation.pptx](https://github.com/danimesq/Presentation.pptx)
-* [PRIVATE] [Printer-do.pptx](https://github.com/danimesq/Printer-do.pptx)
+* [PRIVATE] [Printer-do.pptx](https://gitabc.xyz/#/DaniMesq/Printer-do.pptx)
 * [PRIVATE] [House.pptx](https://github.com/danimesq/House.pptx)
 * [MinisterioUnico](https://github.com/danimesq/MinisterioUnico)
 
@@ -274,8 +280,8 @@ Uma proposta de unificação e padronização de todos as Defensorias Públicas 
 * My PokeJourneys Pokemon Shining Pearl
 * My PokeJourneys Pokemon Legends: Arceus
 * <img width="16px" src="https://assets-prd.ignimgs.com/2022/08/03/pokemon-scarlet-1659542292648.jpg?width=300&crop=1%3A1%2Csmart"/> [My PokeJourneys Pokemon Scarlet](https://github.com/danimesq/journeys-scarlet)
-* <img width="16px" src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png"/> [My Minecraft world of 2017](https://github.com/danimesq/MinecraftWorld)
-* [My new Minecraft world of 2021](https://github.com/danimesq/MinecraftWorld2)
+* <img width="16px" src="https://user-images.githubusercontent.com/38465129/72480309-0dede180-37c5-11ea-9138-793b79713232.png"/> [My Minecraft world of 2017](https://gitabc.xyz/#/DaniMesq/MinecraftWorld)
+* [My new Minecraft world of 2021](https://gitabc.xyz/#/DaniMesq/MinecraftWorld2)
 
 * [freeShop](https://github.com/danimesq/freeShop)
 
@@ -348,6 +354,7 @@ Have AppImage? Now are you missing support for .apps, .game and .html5 files?
 * [SRC At ETH💎💌] [Floflis-Central_HTML](https://gitabc.xyz/#/Floflis/Floflis-Central_HTML)
 * [SRC At ETH💎💌] [Floflis-Central_scripts](https://gitabc.xyz/#/Floflis/Floflis-Central_scripts)
 * [Floflis-Central_exportsfolder](https://gitabc.xyz/#/Floflis/Floflis-Central_exportsfolder)
+* [Floflis-UI](https://gitabc.xyz/#/Floflis/Floflis-UI)
 * [rmv](https://github.com/Floflis/rmv)
 
 Like the "rm" command, but safer
@@ -539,12 +546,19 @@ Programming made easy from kids to your grandma. Eventlr is the app to create ap
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/94411988?s=200&v=4"/> [Firedoge/Web3 HQ](https://github.com/Web3HQ)
 
-* [poodle](https://github.com/Web3HQ/poodle)
+* [meta](https://gitabc.xyz/#/Web3HQ/meta)
+
+* [poodle](https://gitabc.xyz/#/Web3HQ/poodle)
 
 Simple search engine for IPFS/.eth sites, using Lunr2
-* [SRC At ETH💎💌] [firedoge](https://github.com/Web3HQ/firedoge)
+* [SRC At ETH💎💌] [firedoge](https://gitabc.xyz/#/Web3HQ/firedoge)
 
 The browser the Web 3.0 asked for.
+* [firedoge-bin](https://gitabc.xyz/#/Web3HQ/firedoge-bin)
+* [gipfs](https://gitabc.xyz/#/Web3HQ/gipfs)
+* [DML](https://gitabc.xyz/#/Web3HQ/DML)
+
+A brand new markup+dynamic language, for the Web 3.0. Smaller and faster than JSON and HTML. DML is based on Emmet as HTML is based on XML; with improvements such as support to datasets. 
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/50565258?s=200&v=4"/> [HTML5Apps Platform](https://github.com/html5appsplatform)
 
@@ -630,8 +644,8 @@ Prepares and joints your game's controller and screen
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/119013735?s=200&v=4"/> [Partido Velho](https://github.com/PartidoVelho)
 
-* [meta](https://github.com/PartidoVelho/meta)
-* [PropostasAoGovernoAtual](https://github.com/PartidoVelho/PropostasAoGovernoAtual)
+* [meta](https://gitabc.xyz/#/PartidoVelho/meta)
+* [PropostasAoGovernoAtual](https://gitabc.xyz/#/PartidoVelho/PropostasAoGovernoAtual)
 
 
 ##### <img width="16px" src="https://avatars.githubusercontent.com/u/121689948?s=400&v=4"/> [TheEmojiDAO]([https://github.com/PartidoVelho](https://github.com/TheEmojiDAO))
