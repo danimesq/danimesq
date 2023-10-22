@@ -25,7 +25,7 @@ Streak statistics thanks to inspiration from [@lauragift21](https://github.com/l
 
 ##### <img width="16px" src="https://www.pngfind.com/pngs/m/50-509785_earth-badge-pokemon-earth-badge-png-transparent-png.png"> Badges
 
-<a href="https://app.poap.xyz/token/278556" target="_blank"><img width="120px" src="https://assets.poap.xyz/the-graph-7-2021-logo-1621261559833.png"></a>
+<a href="https://app.poap.xyz/token/278556" target="_blank"><img width="120px" src="https://assets.poap.xyz/the-graph-7-2021-logo-1621261559833.png"></a> <a href="https://app.poap.xyz/token/6863018" target="_blank"><img width="120px" src="https://assets.poap.xyz/kzg-ceremony-contributor-2023-logo-1697634378053.png"></a>
 
 <p align="center" style="witdh:100%">
 
