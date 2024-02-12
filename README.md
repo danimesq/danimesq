@@ -4,7 +4,30 @@
 [![🐦Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/DaniMesqEN)
 [![📷Instagram](https://img.shields.io/badge/instagram-idanimesq-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/idanimesq)
 
-<center><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/> <img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></center>
+<center>
+<table>
+<tbody>
+<tr>
+<td><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/></td>
+<td><img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com --></center>
+
+<!--<table>
+<tbody>
+<tr>
+<td><img title="Ubuntu" alt="Ubuntu" src="./screenshots/wrong timestamp, using BIOS time/Ubuntu/Screenshot from 2023-09-16 20-52-37.png"/> Ubuntu</td>
+<td><img title="Linux Mint" alt="Linux Mint" src="./screenshots/wrong timestamp, using BIOS time/Mint/Screenshot from 2023-09-16 20-13-13.png"/> Linux Mint</td>
+<td><img title="Ubuntu Cinnamon" alt="Ubuntu Cinnamon" src="./screenshots/wrong timestamp, using BIOS time/UCR/Screenshot from 2023-09-16 19-47-12.png"/> Ubuntu Cinnamon</td>
+</tr>
+<tr>
+<td><img title="Floflis" alt="Floflis" src="./screenshots/Floflis/Screenshot from 2023-09-14 06-08-29.png"/> Floflis</td>
+</tr>
+</tbody>
+</table>-->
+<!-- DivTable.com -->
 
 #### 📈 GitHub Statistics
 
@@ -160,14 +183,16 @@ TDAH have its dangers and struggles but also have its good side, which give me a
 (Hey, I'm still learning NodeJS 🤭)
 
 ##### App development
+![Flutter](https://img.shields.io/badge/-Flutter-383838?style=flat-square&logo=flutter)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 
 ##### Interested in:
 ![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-383838?style=flat-square&logo=sqlite)
+![Ethereum](https://img.shields.io/badge/-Ethereum-383838?style=flat-square&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=solidity)
-![ERC20](https://img.shields.io/badge/-Ethereum%20ERC20-383838?style=flat-square&logo=ethereum)
+![Cairo](https://img.shields.io/badge/-Cairo-383838?style=flat-square&logo=solidity)
 ![ReactNative](https://img.shields.io/badge/-React/React%20Native-575d91?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-b36800?style=flat-square&logo=firebase)
 ![Rust](https://img.shields.io/badge/-Rust-f46623?style=flat-square&logo=rust)
