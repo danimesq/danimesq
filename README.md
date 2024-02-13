@@ -15,18 +15,28 @@
 </table>
 <!-- DivTable.com --></center>
 
-<!--<table>
+<table>
 <tbody>
 <tr>
-<td><img title="Ubuntu" alt="Ubuntu" src="./screenshots/wrong timestamp, using BIOS time/Ubuntu/Screenshot from 2023-09-16 20-52-37.png"/> Ubuntu</td>
-<td><img title="Linux Mint" alt="Linux Mint" src="./screenshots/wrong timestamp, using BIOS time/Mint/Screenshot from 2023-09-16 20-13-13.png"/> Linux Mint</td>
-<td><img title="Ubuntu Cinnamon" alt="Ubuntu Cinnamon" src="./screenshots/wrong timestamp, using BIOS time/UCR/Screenshot from 2023-09-16 19-47-12.png"/> Ubuntu Cinnamon</td>
+<td><a target="_blank" href="https://www.instagram.com/p/CnQb9xuONDR/"><img height="350px" title="I like to play with NFC, because it's touch-&gt;play feels like magic." alt="I like to play with NFC, because it's touch-&gt;play feels like magic." src="https://scontent.cdninstagram.com/v/t51.2885-15/324252258_175893221803576_2387684144920621688_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=Rez-0ZZPEoYAX8MBYvz&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfClxlxISxavd9cOckI3nk2IFL_fPb5pFu0bQA-twk9AkQ&oe=65D05EB4&_nc_sid=10d13b"/></a> I like to play with NFC, because it's touch->play feels like magic.</td>
+<td><a target="_blank" href="https://www.instagram.com/p/CnQdD2POSmu/"><img height="300px" title="I collect these balls since my childhood" alt="I collect these balls since my childhood" src="https://scontent.cdninstagram.com/v/t51.2885-15/324694561_549655687081112_1427853568852460951_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=E0B8OdxBa_oAX9rVodv&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfC6-NNHufmtSzAIoNP91rDiqFiOcyUjQKYpwhOO-6q8DA&oe=65D10C54&_nc_sid=10d13b"/></a> I collect these balls since my childhood</td>
+<td><a target="_blank" href="https://www.instagram.com/p/CnQeKgzuOy5/"><img max-height="300px" title="I'm a gamedev since 2010-2014." alt="I'm a gamedev since 2010-2014." src="https://scontent.cdninstagram.com/v/t51.2885-15/324377854_725877732292955_3385767300506816985_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=_7Yfz6tZKTUAX8OrWGP&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfBpA_LgpVnNiXlwwupyjI-nj51RaM_0Gh9G6PK9-aNNBQ&oe=65D170EA&_nc_sid=10d13b"/></a> I'm a gamedev since 2010-2014.</td>
 </tr>
 <tr>
-<td><img title="Floflis" alt="Floflis" src="./screenshots/Floflis/Screenshot from 2023-09-14 06-08-29.png"/> Floflis</td>
+<td><a target="_blank" href="https://www.instagram.com/p/Cth7k3xuwF4/"><img max-height="300px" title="I can concilate both things: being autistic and into vanity/beauty caring" alt="I can concilate both things: being autistic and into vanity/beauty caring" src="https://scontent.cdninstagram.com/v/t51.2885-15/354207045_284362007384360_1104123122060079912_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=iuT7NzDeTBcAX83KMHu&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfDl4ExU1gUfyAv8USR1S-iCri_yvx5npodMDFJH7Wr51g&oe=65D11AAF&_nc_sid=10d13b"/></a> I can concilate both things: being autistic and into vanity/beauty caring</td>
+<td><a target="_blank" href="https://www.instagram.com/p/CuSPFvnOu6_/"><img max-height="300px" title="You don't have to be a developer to have stickers on your notebook, right?!" alt="You don't have to be a developer to have stickers on your notebook, right?!" src="https://scontent.cdninstagram.com/v/t39.30808-6/357421145_18371252398059385_2886260434114329344_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=iiW0WN20hhMAX_sE9dJ&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfA7lkOryf8LWH2g8YQcO2C1OLFw7r2XwLnEch7RxFe5Xg&oe=65CFBA1F&_nc_sid=10d13b"/></a> You don't have to be a developer to have stickers on your notebook, right?!</td>
+<td><a target="_blank" href="https://www.instagram.com/p/CuSQ-t-urM4/"><img max-height="300px" title="Beyond stickers: I love decorating a house with happy stuff" alt="Beyond stickers: I love decorating a house with happy stuff" src="https://scontent.cdninstagram.com/v/t51.2885-15/357637096_1317699192175965_430957388251995779_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=QrGClzn21LwAX_kxQ5v&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfBivTshimOMOQYoT8COIhguFKYpZpTd1bEV0kuza_Hdyw&oe=65D14DCD&_nc_sid=10d13b"/></a> Beyond stickers: I love decorating a house with happy stuff</td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://www.instagram.com/p/CvIdf4CuORL/"><img max-height="300px" title="I'm a datamaniac. I love to store, organize data for later analysis." alt="I'm a datamaniac. I love to store, organize data for later analysis." src="https://scontent.cdninstagram.com/v/t51.2885-15/363250555_6406618202714939_7804490386957549635_n.webp?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=kIOfmCSeizcAX8va2qP&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCTjw9qWL_S0PZg4IPOzWRZNyEaPfBn8EysO3-dNxc5bw&oe=65D193B3&_nc_sid=10d13b"/></a> I'm a datamaniac. I love to store, organize data for later analysis.</td>
+<td><a target="_blank" href="https://www.instagram.com/p/Cpq94bqO0zd/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally" alt="I love playing with, beyond coding: cooking. Literally" src="https://scontent.cdninstagram.com/v/t51.2885-15/334760880_2072483549615546_8624813596720164131_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=X8w10rXcM5YAX8lNKvB&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfDnlb9qK2JrfoRWqoSUm4kUsckXBWNl9b6psqoFKF21Gw&oe=65CFE6D6&_nc_sid=10d13b"/></a> I love playing with, beyond coding: cooking. Literally</td>
+<td><a target="_blank" href="https://www.instagram.com/p/C2wkt85OcDD/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally²" alt="I love playing with, beyond coding: cooking. Literally²" src="https://scontent.cdninstagram.com/v/t51.2885-15/423277993_690471256616307_3034579628245555711_n.webp?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_ohc=0p-2qM5Ae9AAX9oMe_h&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCtpfsFSKms2wEV6VUA73XsRl6lcGMetySrI4b3_tjanw&oe=65D0EFAA&_nc_sid=10d13b"/></a> I love playing with, beyond coding: cooking. Literally²</td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://www.instagram.com/p/C3B9PzeODvp/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally³" alt="I love playing with, beyond coding: cooking. Literally³" src="https://scontent.cdninstagram.com/v/t51.2885-15/425853848_7030911973696337_7007004112725855074_n.webp?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=zXyhNnkiJOoAX9Cb_3p&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfAIcBCrQN4v3auiCy0fEQIW1zRgNSA6Gl-0BJnnjZQu1A&oe=65CFC36F&_nc_sid=10d13b"/></a> I love playing with, beyond coding: cooking. Literally³</td>
 </tr>
 </tbody>
-</table>-->
+</table>
 <!-- DivTable.com -->
 
 #### 📈 GitHub Statistics
@@ -117,7 +127,8 @@ Statistics thanks to inspiration from [@federicoiosue](https://github.com/federi
 
 ----
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+<a target="_blank" href="https://vshymanskyy.github.io/StandWithUkraine"><img width="800px" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg"/></a>
 
 ### Table of Contents
 
