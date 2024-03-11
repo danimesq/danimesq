@@ -4,11 +4,14 @@
 - met ChatGPT (March), CursorIDE and Voicify
 - recognized Jessé's talent more than in my infancy when I become his fan for "Solidão de Amigos"
 - found more Nelson Ned's lost music, including one I was eager for in 2020: Ned singing in English
-- my first ever Flutter app
+- my first ever Flutter app (Desktop)
 - my first ever AI voice over, and with clean bgmusic
 - Floflis finally out of the Ubuntu 20/Cinnamon 4 obsolete base. Floflis theme shining! Other of Floflis parts shining as well, such as its icons and AI assistant
 - my first ever React sites (dequemcompro.com.br, factory.tamigucho.com)
+- Floflis 1.0 and Floflis Server 2023 finally launched/released!
 
 2024:
+- my first ever Flutter, non-Cordova Android app (ClientID)
 - ~$4K Starknet airdrop
 -? my first ever dapp?
+-? my first ever HTML5 Android game?
