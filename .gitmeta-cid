@@ -1,14 +1,11 @@
 .gitmeta-cid version: r4 
 Branch: main
-Previous commit: QmNsM1Ac2zdjMzhLzACVBJDHHAWjuEZB4CdL6LQoXmxxo5
-Previous commit (classic git hash): b5e4d7a3b8518e8d1be7abb0f45a46f4c0dfb9fd
+Previous commit: QmU3vUhhVt5Z8pNwNddSwnRn9oJB2sAhtK5UTZ1yKreHSM
+Previous commit (classic git hash): 282904e75d49161ffb95ae8232a3a9919f46d68e
 
 ------------------------------
 
 Files:
-.folderstamp3: QmaA9JvgYc97Qm6BgMKqyi8QqNsCwtofrQBfT74vqizj92
-.folderstamp4: QmWB9yJgYyQXMRvqbwXS71SUp7x6iowmLvgLDfqWBF4dfs
-.gitignore: QmUJVGFrSVzdrKRk1q32kH37Kn4eAexpT1AHVwtjft5Wzt
 Presentation.pptx_FILES/[Content_Types].xml: QmcFY36g1R25ZPKWTAwJyqRk83PStrU4arU7Lmx1Z5nps6
 Presentation.pptx_FILES/_rels/.rels: QmYDVhPDJjXnhCCuCAiMd2ytA9hPP7LgoawRJ3kvAcWjJD
 Presentation.pptx_FILES/docProps/app.xml: QmR6w6X8vX6BmsLnevBc1xivsXHJDoCLDV182QDqVQTehL
@@ -108,7 +105,6 @@ Presentation.pptx_FILES/ppt/slideLayouts/_rels/slideLayout5.xml.rels: QmYWHaD5Ri
 Presentation.pptx_FILES/ppt/slideLayouts/_rels/slideLayout6.xml.rels: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
 Presentation.pptx_FILES/ppt/slideLayouts/_rels/slideLayout7.xml.rels: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
 Presentation.pptx_FILES/ppt/slideLayouts/_rels/slideLayout8.xml.rels: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
-Presentation.pptx_FILES/ppt/slideLayouts/_rels/slideLayout9.xml.rels: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
 Presentation.pptx_FILES/ppt/slideLayouts/slideLayout1.xml: QmV4QkbiXEUBehTp8WSJLR7ZVXxy6LHXzjtdzYq9zxWTMm
 Presentation.pptx_FILES/ppt/slideLayouts/slideLayout10.xml: QmP9mjcDZ364EBk2JoGqYFCfy7nbVeWv1PEyCPYBXJe8a4
 Presentation.pptx_FILES/ppt/slideLayouts/slideLayout11.xml: QmU4ftzNDmPAK8EtLg5pfrSuJ3m7bcdKnhPPdekkquDAfZ
