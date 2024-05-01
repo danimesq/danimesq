@@ -1,12 +1,12 @@
-commit QmV89NxgNBMt2msAKmk5BaoEjvme9D5o86mj7EqqySNNZt
+commit QmPFG6y7n9rm9B7FWf5Fj6cyvyYCWhrkPCQXc9oJ5DR3FG
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: e5b98722d0486357652bc5b83d3b23795ea638363ae3936ed54d996d7c9b88cd6be8d26eb8a72086759979e4fb3c3722d03a1982f30b7253e3e4ad65a393c80000
+Signature: aac5c4c50f5fbae5d7840862b91cb4d98a2d68eab794d8014f5298571410f9c80a73c16e872f51ad84c844da21c987fcc24b2967a194005fd76d1849bcc9f36e01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmPKcNkGr1xsLeWtr59oK4MWGoS8ptjieLeAKzEcU5BawM
-Commit CID if containing only file hashes: QmToginRbWYpMXejzB1SzuXMKoRbRHs8v8SgG9mLRij7MA
+Commit CID if including git's SHA1: QmNgY6EUZ1i298nLMoy56bdJ3mPc1XzbHeqUuvFwjSpdn4
+Commit CID if containing only file hashes: QmV2LbmwBw9Ws7MLVzfsZszXUQYvnVGjjmeqC5HdaYkudH
 
 ------------------------------
 
@@ -17,7 +17,19 @@ Remote URL: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/ConstantBackup/
 
 ------------------------------
 
-chown -h 1000:1000 '.gitattributes'
-chmod 0755 '.gitattributes'
-/usr/bin/touch -hcmd "2024-05-01 14:44:07.5068977000 -0300" '.gitattributes'
-/usr/bin/touch -hcad "2024-05-01 14:44:07.5388991000 -0300" '.gitattributes'
+chown -h 1000:1000 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp'
+chmod 0664 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp'
+/usr/bin/touch -hcmd "2024-05-01 14:44:07.5109487000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp'
+/usr/bin/touch -hcad "2024-05-01 14:44:07.5639002000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp'
+chown -h 1000:1000 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp.weborigin'
+chmod 0664 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp.weborigin'
+/usr/bin/touch -hcmd "2024-05-01 14:39:56.7461805000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp.weborigin'
+/usr/bin/touch -hcad "2024-05-01 14:43:43.2717976000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-2-azul-8.webp.weborigin'
+chown -h 1000:1000 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp'
+chmod 0664 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp'
+/usr/bin/touch -hcmd "2024-05-01 14:44:07.5109747000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp'
+/usr/bin/touch -hcad "2024-05-01 14:44:07.7369078000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp'
+chown -h 1000:1000 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp.weborigin'
+chmod 0664 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp.weborigin'
+/usr/bin/touch -hcmd "2024-05-01 14:39:23.0485352000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp.weborigin'
+/usr/bin/touch -hcad "2024-05-01 14:43:43.7528200000 -0300" 'Lists/FAVColorPalettes/capricho.abril.com.br/todos-signos-5-laranja-8.webp.weborigin'
