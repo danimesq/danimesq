@@ -1,0 +1,35 @@
+This folder: /media/daniella/B/git/danimesq/&meta/Lists/FAVColorPalettes/starknet.io/popup
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 3668967     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:46:51.481962300 -0300
+Modify: 2024-05-01 14:49:31.657028600 -0300
+Change: 2024-05-01 14:49:31.657028600 -0300
+ Birth: 2024-05-01 14:46:51.481962300 -0300
+IPFS hash: 
+------------------------------
+  File: ./popup.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 99242       Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:50:35.734257800 -0300
+Modify: 2024-05-01 14:50:35.734257800 -0300
+Change: 2024-05-01 14:50:38.875313000 -0300
+ Birth: 2024-05-01 14:50:35.734257800 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./popup.html
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 3880765     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:50:30.262160500 -0300
+Modify: 2024-05-01 14:50:30.262160500 -0300
+Change: 2024-05-01 14:50:34.204230700 -0300
+ Birth: 2024-05-01 14:50:30.262160500 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------

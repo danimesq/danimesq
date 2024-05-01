@@ -1,0 +1,45 @@
+This folder: /media/daniella/B/git/danimesq/&meta/Lists/FAVColorPalettes
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./capricho.abril.com.br
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 3592963     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:38:39.864861100 -0300
+Modify: 2024-05-01 14:40:00.978499700 -0300
+Change: 2024-05-01 14:40:00.978499700 -0300
+ Birth: 2024-05-01 14:38:39.864861100 -0300
+IPFS hash: 
+------------------------------
+  File: ./Others-to-add.txt
+  Size: 214       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2617992     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:40:36.709084000 -0300
+Modify: 2024-05-01 14:37:08.139873300 -0300
+Change: 2024-05-01 14:37:08.223882400 -0300
+ Birth: 2024-05-01 14:37:08.139873300 -0300
+IPFS hash: QmTQ28Pps54VducCrpLszTuUFB9K5GmWfzMScXY3p8FYoq
+------------------------------
+  File: ./progressive.international
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 3704097     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:13:19.266256800 -0300
+Modify: 2024-05-01 14:41:46.908625600 -0300
+Change: 2024-05-01 14:41:46.908625600 -0300
+ Birth: 2024-05-01 14:13:19.266256800 -0300
+IPFS hash: 
+------------------------------
+  File: ./starknet.io
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 99238       Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-01 14:43:08.272102100 -0300
+Modify: 2024-05-01 14:43:08.272102100 -0300
+Change: 2024-05-01 14:43:10.423210000 -0300
+ Birth: 2024-05-01 14:43:08.272102100 -0300
+IPFS hash: 
+------------------------------
