@@ -1,12 +1,12 @@
-commit QmZpRQhWD4FMyfdRr4PrPLJTjCNKfahJPURbmX5yC4uqFx
+commit QmV89NxgNBMt2msAKmk5BaoEjvme9D5o86mj7EqqySNNZt
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 24b357f8554e9a3767193792c0441c131c72a41d9be3206405df51173192c0dd3a13dafe8396fa533773c4612d94d94a1507dfb06e6b4ece670330fbc71e9b0901
+Signature: e5b98722d0486357652bc5b83d3b23795ea638363ae3936ed54d996d7c9b88cd6be8d26eb8a72086759979e4fb3c3722d03a1982f30b7253e3e4ad65a393c80000
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmdtekxYumTdCEkfRXV3SfxjMkTtwKFSov27Fh7EQyMC6E
-Commit CID if containing only file hashes: 
+Commit CID if including git's SHA1: QmPKcNkGr1xsLeWtr59oK4MWGoS8ptjieLeAKzEcU5BawM
+Commit CID if containing only file hashes: QmToginRbWYpMXejzB1SzuXMKoRbRHs8v8SgG9mLRij7MA
 
 ------------------------------
 
@@ -17,3 +17,7 @@ Remote URL: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/ConstantBackup/
 
 ------------------------------
 
+chown -h 1000:1000 '.gitattributes'
+chmod 0755 '.gitattributes'
+/usr/bin/touch -hcmd "2024-05-01 14:44:07.5068977000 -0300" '.gitattributes'
+/usr/bin/touch -hcad "2024-05-01 14:44:07.5388991000 -0300" '.gitattributes'
