@@ -1,12 +1,12 @@
-commit QmdxRdsu3pwSjMu7xgxh4xT5JeSzscCR5nrFxoUgeD1d5u
+commit QmZpRQhWD4FMyfdRr4PrPLJTjCNKfahJPURbmX5yC4uqFx
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 0850b2a84eac831758280c2f813de7f268a6bd2c1157c7677ac2077cb7da936753dff4a09a2e1274211763251f35c8424464ea57bd235648f4b65d5f60c2258000
+Signature: 24b357f8554e9a3767193792c0441c131c72a41d9be3206405df51173192c0dd3a13dafe8396fa533773c4612d94d94a1507dfb06e6b4ece670330fbc71e9b0901
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmbujWk6apUQUmp3vb48LPgX3bkBXatJRA9anTd587oZmS
-Commit CID if containing only file hashes: QmRDcBSHptEeCP4gmVrFsHaetaU8uPKbG5vJWVkJ26aCJh
+Commit CID if including git's SHA1: QmdtekxYumTdCEkfRXV3SfxjMkTtwKFSov27Fh7EQyMC6E
+Commit CID if containing only file hashes: 
 
 ------------------------------
 
@@ -17,83 +17,3 @@ Remote URL: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/ConstantBackup/
 
 ------------------------------
 
-chown -h 1000:1000 'Lists/FAVColorPalettes/.folderstamp1'
-chmod 0664 'Lists/FAVColorPalettes/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-01 14:12:02.2279159000 -0300" 'Lists/FAVColorPalettes/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-01 14:12:24.9898024000 -0300" 'Lists/FAVColorPalettes/.folderstamp1'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.folderstamp2'
-chmod 0664 'Lists/FAVColorPalettes/.folderstamp2'
-/usr/bin/touch -hcmd "2024-05-01 14:12:24.9978020000 -0300" 'Lists/FAVColorPalettes/.folderstamp2'
-/usr/bin/touch -hcad "2024-05-01 14:40:39.5112786000 -0300" 'Lists/FAVColorPalettes/.folderstamp2'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.folderstamp3'
-chmod 0664 'Lists/FAVColorPalettes/.folderstamp3'
-/usr/bin/touch -hcmd "2024-05-01 14:30:55.7001048000 -0300" 'Lists/FAVColorPalettes/.folderstamp3'
-/usr/bin/touch -hcad "2024-05-01 14:40:39.7912980000 -0300" 'Lists/FAVColorPalettes/.folderstamp3'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-chmod 0664 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-01 14:31:16.0016165000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-01 14:31:34.6211707000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-chmod 0664 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-/usr/bin/touch -hcmd "2024-05-01 14:31:27.0523517000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-/usr/bin/touch -hcad "2024-05-01 14:31:34.7101686000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-chmod 0664 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-/usr/bin/touch -hcmd "2024-05-01 14:30:50.4052325000 -0300" 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-/usr/bin/touch -hcad "2024-05-01 14:31:27.0393520000 -0300" 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-chown -h 1000:1000 'Lists/FAVColorPalettes/Others-to-add.txt'
-chmod 0664 'Lists/FAVColorPalettes/Others-to-add.txt'
-/usr/bin/touch -hcmd "2024-05-01 14:37:08.1398733000 -0300" 'Lists/FAVColorPalettes/Others-to-add.txt'
-/usr/bin/touch -hcad "2024-05-01 14:40:36.7090840000 -0300" 'Lists/FAVColorPalettes/Others-to-add.txt'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#00bf89/sample.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#00bf89/sample.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:24:57.7492354000 -0300" 'Lists/FAVColorPalettes/progressive.international/#00bf89/sample.svg'
-/usr/bin/touch -hcad "2024-05-01 14:25:04.0360642000 -0300" 'Lists/FAVColorPalettes/progressive.international/#00bf89/sample.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample-0.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample-0.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:22:55.1016797000 -0300" 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample-0.svg'
-/usr/bin/touch -hcad "2024-05-01 14:24:14.1404365000 -0300" 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample-0.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:23:58.3488776000 -0300" 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample.svg'
-/usr/bin/touch -hcad "2024-05-01 14:24:01.8507795000 -0300" 'Lists/FAVColorPalettes/progressive.international/#3f27ff/sample.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-0.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-0.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:19:03.9888602000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-0.svg'
-/usr/bin/touch -hcad "2024-05-01 14:19:56.6191290000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-0.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-1.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-1.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:19:53.1432414000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-1.svg'
-/usr/bin/touch -hcad "2024-05-01 14:21:39.8939044000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-1.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-2.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-2.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:20:38.5857928000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-2.svg'
-/usr/bin/touch -hcad "2024-05-01 14:21:39.8939044000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample-2.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:21:32.4671294000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample.svg'
-/usr/bin/touch -hcad "2024-05-01 14:21:34.8500571000 -0300" 'Lists/FAVColorPalettes/progressive.international/#c600e2/sample.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/#ff0045/sample.svg'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/#ff0045/sample.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:27:16.2555663000 -0300" 'Lists/FAVColorPalettes/progressive.international/#ff0045/sample.svg'
-/usr/bin/touch -hcad "2024-05-01 14:27:26.7172971000 -0300" 'Lists/FAVColorPalettes/progressive.international/#ff0045/sample.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp1'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-01 14:29:39.6969560000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-01 14:29:56.9105333000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp1'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp2'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp2'
-/usr/bin/touch -hcmd "2024-05-01 14:29:49.5877129000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp2'
-/usr/bin/touch -hcad "2024-05-01 14:29:57.0555298000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/.folderstamp2'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/.meta/Screenshot.png'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/.meta/Screenshot.png'
-/usr/bin/touch -hcmd "2024-05-01 14:29:15.6205506000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/Screenshot.png'
-/usr/bin/touch -hcad "2024-05-01 14:29:49.5787131000 -0300" 'Lists/FAVColorPalettes/progressive.international/.meta/Screenshot.png'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/More'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/More'
-/usr/bin/touch -hcmd "2024-05-01 14:28:51.7391447000 -0300" 'Lists/FAVColorPalettes/progressive.international/More'
-/usr/bin/touch -hcad "2024-05-01 14:40:50.1030037000 -0300" 'Lists/FAVColorPalettes/progressive.international/More'
-chown -h 1000:1000 'Lists/FAVColorPalettes/progressive.international/More-0'
-chmod 0664 'Lists/FAVColorPalettes/progressive.international/More-0'
-/usr/bin/touch -hcmd "2024-05-01 14:26:10.7002773000 -0300" 'Lists/FAVColorPalettes/progressive.international/More-0'
-/usr/bin/touch -hcad "2024-05-01 14:40:50.1030037000 -0300" 'Lists/FAVColorPalettes/progressive.international/More-0'
