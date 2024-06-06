@@ -1,12 +1,12 @@
-commit QmaD4xxg1MXiwRy6tTKB3wBhAHY4wjoNTSxL9D1iRZTaTS
+commit Qmb2kRJk7DMFqWe4EyxPp8eSPYrLDMwW2wJ7WJCki6o4Ss
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 24dc0f7533a2e6818ad715d0cca0d12ba4d48c89530a9f054a68268ec6b6cc563a3e594c2e1cbe2aed1349ef7b3bb1c86f2923d1c25283627997b541a0d771c701
+Signature: a9ab9dc5bbf5100c47321ec226862b3b4b8c38f8431939ff63099bb3b659d7dd64e969b19f08120af469dc64d439a3c6ee4951dc3572fa05bfe29a5bbd37ce4201
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmNT97NeaG2QBmfinjvKu3PAxL3EMRr3zbXfDZnSeKBVhw
-Commit CID if containing only file hashes: QmcsgYd1W1AwZfHFEx9arHdoW6kfE2stifh2GoxLb2tAPz
+Commit CID if including git's SHA1: QmT7Lo5eczy7PKeT8Rxphw6yWrzorE4cnsunWcYQwxJZZc
+Commit CID if containing only file hashes: QmcrJ2jxYmzmQnjAoCGk4FTkGsPpBmb8k8jiXGGS75QfHD
 
 ------------------------------
 
@@ -17,51 +17,7 @@ Remote URL: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/ConstantBackup/
 
 ------------------------------
 
-chown -h 1000:1000 'Lists/FAVColorPalettes/.folderstamp'
-chmod 0664 'Lists/FAVColorPalettes/.folderstamp'
-/usr/bin/touch -hcmd "2024-05-01 14:43:19.1596434000 -0300" 'Lists/FAVColorPalettes/.folderstamp'
-/usr/bin/touch -hcad "2024-05-01 14:43:32.6792980000 -0300" 'Lists/FAVColorPalettes/.folderstamp'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-chmod 0664 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-01 15:10:07.0573173000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-01 15:10:14.8652911000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp1'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-chmod 0664 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-/usr/bin/touch -hcmd "2024-05-01 15:10:16.2742864000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-/usr/bin/touch -hcad "2024-05-01 15:10:21.4342689000 -0300" 'Lists/FAVColorPalettes/.meta/.folderstamp2'
-chown -h 1000:1000 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-chmod 0664 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-/usr/bin/touch -hcmd "2024-05-01 15:09:56.1233535000 -0300" 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-/usr/bin/touch -hcad "2024-05-01 15:10:16.2642864000 -0300" 'Lists/FAVColorPalettes/.meta/Screenshot.png'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/.folderstamp1'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/.folderstamp1'
-/usr/bin/touch -hcmd "2024-05-01 14:50:42.3983744000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/.folderstamp1'
-/usr/bin/touch -hcad "2024-05-01 15:08:31.2536143000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/.folderstamp1'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png'
-/usr/bin/touch -hcmd "2024-05-01 14:46:16.8098610000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png'
-/usr/bin/touch -hcad "2024-05-01 14:46:56.4931143000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png.weborigin'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png.weborigin'
-/usr/bin/touch -hcmd "2024-05-01 14:46:36.4684962000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png.weborigin'
-/usr/bin/touch -hcad "2024-05-01 15:08:31.3756139000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-background.14aeb71d.png.weborigin'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg'
-/usr/bin/touch -hcmd "2024-05-01 14:47:07.5214426000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg'
-/usr/bin/touch -hcad "2024-05-01 14:47:09.8535109000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg.weborigin'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg.weborigin'
-/usr/bin/touch -hcmd "2024-05-01 14:48:02.2179511000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg.weborigin'
-/usr/bin/touch -hcad "2024-05-01 15:08:31.4266138000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/img/popup-text.38a0098b.svg.weborigin'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/popup.css'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/popup.css'
-/usr/bin/touch -hcmd "2024-05-01 15:07:50.2047264000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.css'
-/usr/bin/touch -hcad "2024-05-01 15:08:31.4966136000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.css'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/popup.html'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/popup.html'
-/usr/bin/touch -hcmd "2024-05-01 15:00:25.3810709000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.html'
-/usr/bin/touch -hcad "2024-05-01 15:08:01.6456961000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.html'
-chown -h 1000:1000 'Lists/FAVColorPalettes/starknet.io/popup/popup.html.txt'
-chmod 0664 'Lists/FAVColorPalettes/starknet.io/popup/popup.html.txt'
-/usr/bin/touch -hcmd "2024-05-01 14:51:23.1910458000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.html.txt'
-/usr/bin/touch -hcad "2024-05-01 15:08:31.5386135000 -0300" 'Lists/FAVColorPalettes/starknet.io/popup/popup.html.txt'
+chown -h 1000:1000 'README.md'
+chmod 0775 'README.md'
+/usr/bin/touch -hcmd "2024-06-05 23:10:30.5778293000 -0300" 'README.md'
+/usr/bin/touch -hcad "2024-06-05 23:10:45.1300520000 -0300" 'README.md'
