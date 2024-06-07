@@ -13,31 +13,8 @@
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com --></center>
-
-<table>
-<tbody>
-<tr>
-<td><a target="_blank" href="https://www.instagram.com/p/CnQb9xuONDR/"><img height="350px" title="I like to play with NFC, because it's touch-&gt;play feels like magic." alt="I like to play with NFC, because it's touch-&gt;play feels like magic." src="https://archive.is/IEzeP/781ff5026c9de1c9756daf1d817cd0f50b1a3d0d.jpg"/></a> I like to play with NFC, because it's touch->play feels like magic.</td>
-<td><a target="_blank" href="https://www.instagram.com/p/CnQdD2POSmu/"><img height="300px" title="I collect these balls since my childhood" alt="I collect these balls since my childhood" src="https://archive.is/MXG5e/8ad26081d27532626d832cf509fdf7370b4f1a8a.jpg"/></a> I collect these balls since my childhood</td>
-<td><a target="_blank" href="https://www.instagram.com/p/CnQeKgzuOy5/"><img max-height="300px" title="I'm a gamedev since 2010-2014." alt="I'm a gamedev since 2010-2014." src="https://archive.is/OKh2g/f5210ec78cb758d02487febc91b9ee8d6097bd08.jpg"/></a> I'm a gamedev since 2010-2014.</td>
-</tr>
-<tr>
-<td><a target="_blank" href="https://www.instagram.com/p/Cth7k3xuwF4/"><img max-height="300px" title="I can concilate both things: being autistic and into vanity/beauty caring" alt="I can concilate both things: being autistic and into vanity/beauty caring" src="https://archive.is/ktle3/ba1c0f9746795112ed41c87bcd47213fd234d0df.jpg"/></a> I can concilate both things: being autistic and into vanity/beauty caring</td>
-<td><a target="_blank" href="https://www.instagram.com/p/CuSPFvnOu6_/"><img max-height="300px" title="You don't have to be a developer to have stickers on your notebook, right?!" alt="You don't have to be a developer to have stickers on your notebook, right?!" src="https://archive.is/9rgZp/98d38d064f824d8a41549f40d2583ece50c2ea26.jpg"/></a> You don't have to be a developer to have stickers on your notebook, right?!</td>
-<td><a target="_blank" href="https://www.instagram.com/p/CuSQ-t-urM4/"><img max-height="300px" title="Beyond stickers: I love decorating a house with happy stuff" alt="Beyond stickers: I love decorating a house with happy stuff" src="https://archive.is/otJ06/6c1d68bce2f6f037c3635391bb186d80e82d9630.jpg"/></a> Beyond stickers: I love decorating a house with happy stuff</td>
-</tr>
-<tr>
-<td><a target="_blank" href="https://www.instagram.com/p/CvIdf4CuORL/"><img max-height="300px" title="I'm a datamaniac. I love to store, organize data for later analysis." alt="I'm a datamaniac. I love to store, organize data for later analysis." src="https://archive.is/m8lV3/41b3ef18135c08e87c5a836a8fb9422b91ae7605.jpg"/></a> I'm a datamaniac. I love to store, organize data for later analysis.</td>
-<td><a target="_blank" href="https://www.instagram.com/p/Cpq94bqO0zd/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally" alt="I love playing with, beyond coding: cooking. Literally" src="https://archive.is/6AfyA/1eda5e32325cb1e6935fa01ae930795c20e570fa.jpg"/></a> I love playing with, beyond coding: cooking. Literally</td>
-<td><a target="_blank" href="https://www.instagram.com/p/C2wkt85OcDD/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally²" alt="I love playing with, beyond coding: cooking. Literally²" src="https://archive.is/P19a7/d37b43677e9e68539ca664510f8a73eab8da354f.jpg"/></a> I love playing with, beyond coding: cooking. Literally²</td>
-</tr>
-<tr>
-<td><a target="_blank" href="https://www.instagram.com/p/C3B9PzeODvp/"><img max-height="300px" title="I love playing with, beyond coding: cooking. Literally³" alt="I love playing with, beyond coding: cooking. Literally³" src="https://archive.is/5nlha/e31ba9ea057b62c7c71931280f68cad73b51fa57.jpg"/></a> I love playing with, beyond coding: cooking. Literally³</td>
-</tr>
-</tbody>
-</table>
 <!-- DivTable.com -->
+<p>More about me: <a href="https://danimesq.com/" target="_blank">personal site</a></p></center>
 
 #### 📈 GitHub Statistics
 
