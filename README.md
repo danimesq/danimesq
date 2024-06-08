@@ -8,7 +8,7 @@
 <table>
 <tbody>
 <tr>
-<td><img width="500px" src="https://ipfs.io/ipfs/QmbDivVxfP1pJfJTojvuyCtuYqqBcFRBE46BToLqsSxCv3/nft.png"/></td>
+<td><img width="500px" src="https://ipfs.io/ipfs/QmRr1KyYxAi83hbRWq9mTpUsHWgtJKATF4NJTWExtqivt1/nft.png"/></td>
 <td><img width="300px" src="https://ipfs.io/ipfs/QmUEn9sGy2DTmaV8azoQQsBdgffriAjsakYcqfMrjQN5sU/nft.jpg"/></td>
 </tr>
 </tbody>
